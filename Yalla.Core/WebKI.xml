@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AppendEntry method">
+    <HelpKINode Title="DefaultFormatter.AppendEntry Method " Url="html/3dd88cce-ecdb-9310-5c74-53ded695afa0.htm" />
+    <HelpKINode Title="FormatterBase.AppendEntry Method " Url="html/5a9a49b0-ebcf-5893-b176-0f8228f57d64.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AppendException method" Url="html/a3147884-d83a-82d5-a112-1eb8343f85e6.htm" />
+  <HelpKINode Title="AppendMessage method" Url="html/aa54fcfb-6676-bd53-bda1-7679bba2b819.htm" />
+  <HelpKINode Title="Caller property" Url="html/2394ac66-462c-a505-0402-700f929412e7.htm" />
+  <HelpKINode Title="CallerInfo class">
+    <HelpKINode Title="CallerInfo Class" Url="html/0a06878d-82f7-349e-be2b-1092447d49a4.htm" />
+    <HelpKINode Title="about CallerInfo class" Url="html/0a06878d-82f7-349e-be2b-1092447d49a4.htm" />
+    <HelpKINode Title="constructor" Url="html/2781c5ca-7648-c24d-dbd6-6fd6ce16f5cf.htm" />
+    <HelpKINode Title="methods" Url="html/916cf8b2-0fd5-99f0-a896-7fc89d4546d5.htm" />
+    <HelpKINode Title="properties" Url="html/6e739986-7030-9f65-452a-9a36a76ad0a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CallerInfo.CallerInfo constructor" Url="html/2781c5ca-7648-c24d-dbd6-6fd6ce16f5cf.htm" />
+  <HelpKINode Title="CallerInfo.FilePath property" Url="html/52bdf700-2c2a-19f3-90a6-470fa2e897e1.htm" />
+  <HelpKINode Title="CallerInfo.GetHashCode method" Url="html/fb8dc47d-fba6-ad6b-fca9-d49811827467.htm" />
+  <HelpKINode Title="CallerInfo.LineNumber property" Url="html/c9c08950-9224-31d2-d23c-d567a10eca26.htm" />
+  <HelpKINode Title="CallerInfo.MemberName property" Url="html/9622f4e1-a6d9-4a96-f6e6-e12a729a63fe.htm" />
+  <HelpKINode Title="Configure method" Url="html/84aa4d91-b4ce-e16a-6323-785fe8d3f0d8.htm" />
+  <HelpKINode Title="CreateSettings method" Url="html/3f11b5c2-396c-70d4-3db6-f72c1c7eb466.htm" />
+  <HelpKINode Title="Debug enumeration member" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Debug method">
+    <HelpKINode Title="ILog.Debug Method " Url="html/7f098566-00b5-441c-bc7a-1f52732e5deb.htm" />
+    <HelpKINode Title="Log.Debug Method " Url="html/10763fe2-b100-0c29-900d-e1d272732fae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DebugFormat method">
+    <HelpKINode Title="ILog.DebugFormat Method " Url="html/aa453071-56b3-8254-f43e-bfa12115c07b.htm" />
+    <HelpKINode Title="Log.DebugFormat Method " Url="html/fe00e253-09b0-9edb-9c46-95c0a1623d14.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultFormatter class">
+    <HelpKINode Title="DefaultFormatter Class" Url="html/d46a5f9b-ad8b-4db1-ed07-ec853021454b.htm" />
+    <HelpKINode Title="about DefaultFormatter class" Url="html/d46a5f9b-ad8b-4db1-ed07-ec853021454b.htm" />
+    <HelpKINode Title="methods" Url="html/55971301-3d44-e73b-41f6-9faef4fa559f.htm" />
+    <HelpKINode Title="properties" Url="html/b54e14ba-b8c5-a64c-b0f2-73115dac4306.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultFormatter.AppendEntry method" Url="html/3dd88cce-ecdb-9310-5c74-53ded695afa0.htm" />
+  <HelpKINode Title="DefaultFormatter.AppendException method" Url="html/a3147884-d83a-82d5-a112-1eb8343f85e6.htm" />
+  <HelpKINode Title="DefaultFormatter.AppendMessage method" Url="html/aa54fcfb-6676-bd53-bda1-7679bba2b819.htm" />
+  <HelpKINode Title="DefaultFormatter.Epilogue property" Url="html/4e54974e-bea5-d7e6-f4b3-992ae1974fc9.htm" />
+  <HelpKINode Title="DefaultFormatter.Instance property" Url="html/5149bbb2-d438-c7bf-6438-3979afc77736.htm" />
+  <HelpKINode Title="DefaultFormatter.Prefix property" Url="html/49f1a0ab-42d5-fe91-ba9e-6c17bbf0b529.htm" />
+  <HelpKINode Title="DefaultFormatter.Prologue property" Url="html/6fd7e530-2f68-fafd-404f-4d0bcee66923.htm" />
+  <HelpKINode Title="DefaultFormatter.Suffix property" Url="html/33de351c-32a0-d591-9afb-5e51975836d4.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="Log.Dispose Method " Url="html/1c0a2e0e-d409-710e-684b-1acf170906a9.htm" />
+    <HelpKINode Title="LoggerBase.Dispose Method " Url="html/b4e422c0-6d4f-2d35-c287-8dd13bee4bcb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Epilogue property">
+    <HelpKINode Title="DefaultFormatter.Epilogue Property " Url="html/4e54974e-bea5-d7e6-f4b3-992ae1974fc9.htm" />
+    <HelpKINode Title="FormatterBase.Epilogue Property " Url="html/28deab91-0a4b-1299-2cfc-dee214dc5d61.htm" />
+    <HelpKINode Title="ILogFormatter.Epilogue Property " Url="html/4ca9acfc-b2f2-eebc-bd59-2e03538840f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Error enumeration member" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Error method">
+    <HelpKINode Title="ILog.Error Method " Url="html/1e12374b-f04a-e797-4d8b-c4e2982a2fc4.htm" />
+    <HelpKINode Title="Log.Error Method " Url="html/c8d2f2b4-ff61-0a4f-a8b2-e48142242403.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorFormat method">
+    <HelpKINode Title="ILog.ErrorFormat Method " Url="html/6a718635-40ca-f5dc-1eb7-c65407aa158b.htm" />
+    <HelpKINode Title="Log.ErrorFormat Method " Url="html/42ef10b1-f4ad-41bd-60b4-41a5d42e2314.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Exception property" Url="html/0887cb2f-5455-f823-c6df-752ab0f8c6d7.htm" />
+  <HelpKINode Title="Fatal enumeration member" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Fatal method">
+    <HelpKINode Title="ILog.Fatal Method " Url="html/b099846d-e123-ba8d-8b5a-97d2c44af8ff.htm" />
+    <HelpKINode Title="Log.Fatal Method " Url="html/d4a320b4-e759-67d3-b0de-4461a161e0c4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FatalFormat method">
+    <HelpKINode Title="ILog.FatalFormat Method " Url="html/3c21f67a-37e5-a623-3901-35bdb373fd77.htm" />
+    <HelpKINode Title="Log.FatalFormat Method " Url="html/b4e080c9-299e-b595-f118-5726e0b299b1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FilePath property" Url="html/52bdf700-2c2a-19f3-90a6-470fa2e897e1.htm" />
+  <HelpKINode Title="Finalize method" Url="html/8c6f7feb-b479-9514-73c5-33f65831a0dc.htm" />
+  <HelpKINode Title="Format method">
+    <HelpKINode Title="FormatterBase.Format Method " Url="html/11a0cc76-0f40-02b3-5a14-d44d328e0795.htm" />
+    <HelpKINode Title="ILogFormatter.Format Method " Url="html/447c80fc-20d0-8d44-626c-8f7ecc30490a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormatMessageCallback delegate" Url="html/357bfe50-4c71-9083-483a-ccebfd1c07c6.htm" />
+  <HelpKINode Title="FormatMessageHandler delegate" Url="html/2be5bc87-61d1-732f-c0c1-a8333f96ef12.htm" />
+  <HelpKINode Title="Formatter property">
+    <HelpKINode Title="ILog.Formatter Property " Url="html/88b31c74-d694-2645-a88a-40b7f502fd39.htm" />
+    <HelpKINode Title="Log.Formatter Property " Url="html/ac7ca1de-84cd-e49f-49f0-a9af406c3673.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormatterBase class">
+    <HelpKINode Title="FormatterBase Class" Url="html/9eda2b15-f36f-be0c-93fe-139974f0ff1f.htm" />
+    <HelpKINode Title="about FormatterBase class" Url="html/9eda2b15-f36f-be0c-93fe-139974f0ff1f.htm" />
+    <HelpKINode Title="constructor" Url="html/9311cc1e-d24e-4faf-a101-26928ff80066.htm" />
+    <HelpKINode Title="methods" Url="html/24ef865a-f268-2ee3-7b60-dd0f0505d89a.htm" />
+    <HelpKINode Title="properties" Url="html/9073987e-d006-8a10-c238-192ba620c51e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormatterBase.AppendEntry method" Url="html/5a9a49b0-ebcf-5893-b176-0f8228f57d64.htm" />
+  <HelpKINode Title="FormatterBase.Epilogue property" Url="html/28deab91-0a4b-1299-2cfc-dee214dc5d61.htm" />
+  <HelpKINode Title="FormatterBase.Format method" Url="html/11a0cc76-0f40-02b3-5a14-d44d328e0795.htm" />
+  <HelpKINode Title="FormatterBase.FormatterBase constructor" Url="html/9311cc1e-d24e-4faf-a101-26928ff80066.htm" />
+  <HelpKINode Title="FormatterBase.Prefix property" Url="html/22df40b6-3e1f-96ad-0cb0-4007f347b3f4.htm" />
+  <HelpKINode Title="FormatterBase.Prologue property" Url="html/9d6bec8d-73f8-1310-a59f-caba829f6a0a.htm" />
+  <HelpKINode Title="FormatterBase.Suffix property" Url="html/5dd97665-d27a-b611-fc70-803ecc4770e0.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/fb8dc47d-fba6-ad6b-fca9-d49811827467.htm" />
+  <HelpKINode Title="GetLevel method" Url="html/20b71293-7f90-0116-be83-66cb56291fee.htm" />
+  <HelpKINode Title="GetLogger method">
+    <HelpKINode Title="ILogFactory.GetLogger Method " Url="html/29115321-96e0-0390-4972-0dca3aa91c15.htm" />
+    <HelpKINode Title="ILoggerFactoryAdapter.GetLogger Method " Url="html/259dd23f-9960-9b3b-c4e8-c1fd35b6ca79.htm" />
+    <HelpKINode Title="LoggerFactoryAdapterBase.GetLogger Method " Url="html/62f3f0dd-9153-cb25-9053-dcaff72bad1a.htm" />
+    <HelpKINode Title="NoOpLogFactory.GetLogger Method " Url="html/46ec264b-0740-abc4-aa8d-36c3abfdd469.htm" />
+    <HelpKINode Title="NoOpLoggerFactoryAdapter.GetLogger Method " Url="html/38915233-7a78-8c2f-48d2-a433121f5ef0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConfigurationSource interface">
+    <HelpKINode Title="IConfigurationSource Interface" Url="html/27e03ebe-6761-f28f-99a7-283211c49e96.htm" />
+    <HelpKINode Title="about IConfigurationSource interface" Url="html/27e03ebe-6761-f28f-99a7-283211c49e96.htm" />
+    <HelpKINode Title="methods" Url="html/0d08b335-452d-ae72-2293-f67ee59697e6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConfigurationSource.Configure method" Url="html/84aa4d91-b4ce-e16a-6323-785fe8d3f0d8.htm" />
+  <HelpKINode Title="ILog interface">
+    <HelpKINode Title="ILog Interface" Url="html/158aaeda-37a4-d087-be1c-7f509723ad27.htm" />
+    <HelpKINode Title="about ILog interface" Url="html/158aaeda-37a4-d087-be1c-7f509723ad27.htm" />
+    <HelpKINode Title="methods" Url="html/99ec781a-ad21-b5e9-3125-c8773fbae39a.htm" />
+    <HelpKINode Title="properties" Url="html/2adb5edb-b148-ee75-d6ff-d5b891605459.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILog.Debug method" Url="html/7f098566-00b5-441c-bc7a-1f52732e5deb.htm" />
+  <HelpKINode Title="ILog.DebugFormat method" Url="html/aa453071-56b3-8254-f43e-bfa12115c07b.htm" />
+  <HelpKINode Title="ILog.Error method" Url="html/1e12374b-f04a-e797-4d8b-c4e2982a2fc4.htm" />
+  <HelpKINode Title="ILog.ErrorFormat method" Url="html/6a718635-40ca-f5dc-1eb7-c65407aa158b.htm" />
+  <HelpKINode Title="ILog.Fatal method" Url="html/b099846d-e123-ba8d-8b5a-97d2c44af8ff.htm" />
+  <HelpKINode Title="ILog.FatalFormat method" Url="html/3c21f67a-37e5-a623-3901-35bdb373fd77.htm" />
+  <HelpKINode Title="ILog.Formatter property" Url="html/88b31c74-d694-2645-a88a-40b7f502fd39.htm" />
+  <HelpKINode Title="ILog.Info method" Url="html/72636b69-5b13-6e96-8912-897450bb0bb8.htm" />
+  <HelpKINode Title="ILog.InfoFormat method" Url="html/5e71534d-bb38-9eee-c236-0098dae69f70.htm" />
+  <HelpKINode Title="ILog.IsDebugEnabled property" Url="html/5337d6f0-e270-b21e-30d5-5a83f680f0cf.htm" />
+  <HelpKINode Title="ILog.IsErrorEnabled property" Url="html/4d087249-a638-e8d3-600e-aba46c9dd9bf.htm" />
+  <HelpKINode Title="ILog.IsFatalEnabled property" Url="html/3d34fbd9-0419-2479-f033-1df206983e46.htm" />
+  <HelpKINode Title="ILog.IsInfoEnabled property" Url="html/fded0dd8-b1a9-cd11-c25b-72750b22852f.htm" />
+  <HelpKINode Title="ILog.IsTraceEnabled property" Url="html/af2eabda-3e6d-1539-da6f-41e57aac1521.htm" />
+  <HelpKINode Title="ILog.IsWarnEnabled property" Url="html/b367c102-a01e-dd7c-ed7a-27bf6aa13b8c.htm" />
+  <HelpKINode Title="ILog.Logger property" Url="html/6123836e-8536-e659-7d66-ae5687ccdee1.htm" />
+  <HelpKINode Title="ILog.Trace method" Url="html/a83abc19-849d-9ffd-e9cd-820007cc584f.htm" />
+  <HelpKINode Title="ILog.TraceFormat method" Url="html/71083e36-955b-3663-b530-45bfe4f956b5.htm" />
+  <HelpKINode Title="ILog.Warn method" Url="html/b0996162-3dc7-7b3d-2a72-17f006a95a78.htm" />
+  <HelpKINode Title="ILog.WarnFormat method" Url="html/fafff090-9029-b80c-ed67-2d70a0a96e0f.htm" />
+  <HelpKINode Title="ILogFactory interface">
+    <HelpKINode Title="ILogFactory Interface" Url="html/0d982073-ed87-d14c-6e19-3e892c677a04.htm" />
+    <HelpKINode Title="about ILogFactory interface" Url="html/0d982073-ed87-d14c-6e19-3e892c677a04.htm" />
+    <HelpKINode Title="methods" Url="html/a7b638de-02ba-25fa-9d84-0f2abd80581b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogFactory.GetLogger method" Url="html/29115321-96e0-0390-4972-0dca3aa91c15.htm" />
+  <HelpKINode Title="ILogFactory.Initialize method" Url="html/3040e904-238e-b8aa-73de-f60f8da77b99.htm" />
+  <HelpKINode Title="ILogFactory.Shutdown method" Url="html/08a309c0-979c-3730-74eb-624b512f40ec.htm" />
+  <HelpKINode Title="ILogFormatter interface">
+    <HelpKINode Title="ILogFormatter Interface" Url="html/0eedaa6f-435b-effb-493a-7279c7e6dca6.htm" />
+    <HelpKINode Title="about ILogFormatter interface" Url="html/0eedaa6f-435b-effb-493a-7279c7e6dca6.htm" />
+    <HelpKINode Title="methods" Url="html/ac4c7079-b7e9-a27c-6627-00a801065c1e.htm" />
+    <HelpKINode Title="properties" Url="html/c7252ee3-69e9-ccfe-26be-a918728f2964.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogFormatter.Epilogue property" Url="html/4ca9acfc-b2f2-eebc-bd59-2e03538840f3.htm" />
+  <HelpKINode Title="ILogFormatter.Format method" Url="html/447c80fc-20d0-8d44-626c-8f7ecc30490a.htm" />
+  <HelpKINode Title="ILogFormatter.Prologue property" Url="html/8c0178fd-d667-74bc-48f9-1439b46fa7c5.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/285553aa-8d7a-f9c0-72f7-7c54fed1ff65.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/285553aa-8d7a-f9c0-72f7-7c54fed1ff65.htm" />
+    <HelpKINode Title="methods" Url="html/583df324-64e4-7ac2-deed-2acf4f2b992a.htm" />
+    <HelpKINode Title="properties" Url="html/f4330cfe-93bb-88ce-eb07-2e621633f0c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.IsEnabled method" Url="html/cc02686a-01ca-d541-ae25-c649a56c90f3.htm" />
+  <HelpKINode Title="ILogger.Log method" Url="html/2212c703-319e-c840-2c3b-4c2d2f57b56e.htm" />
+  <HelpKINode Title="ILogger.Name property" Url="html/c065e674-61c0-c2cf-f1cd-d94544d42f8e.htm" />
+  <HelpKINode Title="ILoggerFactoryAdapter interface">
+    <HelpKINode Title="ILoggerFactoryAdapter Interface" Url="html/994c5bbf-d467-cebc-3c89-1d312bdeabac.htm" />
+    <HelpKINode Title="about ILoggerFactoryAdapter interface" Url="html/994c5bbf-d467-cebc-3c89-1d312bdeabac.htm" />
+    <HelpKINode Title="methods" Url="html/97f92928-98bb-bc28-b2fa-d6fd0ebee2dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILoggerFactoryAdapter.GetLogger method" Url="html/259dd23f-9960-9b3b-c4e8-c1fd35b6ca79.htm" />
+  <HelpKINode Title="ILoggerFactoryAdapter.Initialize method" Url="html/13a025b1-8080-48b2-141b-ddaf5634293c.htm" />
+  <HelpKINode Title="ILoggerFactoryAdapter.Shutdown method" Url="html/96afa1da-f373-774a-fa2f-815a582bd693.htm" />
+  <HelpKINode Title="Info enumeration member" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Info method">
+    <HelpKINode Title="ILog.Info Method " Url="html/72636b69-5b13-6e96-8912-897450bb0bb8.htm" />
+    <HelpKINode Title="Log.Info Method " Url="html/99298e65-e25e-6703-587f-6c81644bbbc6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InfoFormat method">
+    <HelpKINode Title="ILog.InfoFormat Method " Url="html/5e71534d-bb38-9eee-c236-0098dae69f70.htm" />
+    <HelpKINode Title="Log.InfoFormat Method " Url="html/e3a2aa66-c8b0-2106-33f8-a302f0c6a61c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Initialize method">
+    <HelpKINode Title="ILogFactory.Initialize Method " Url="html/3040e904-238e-b8aa-73de-f60f8da77b99.htm" />
+    <HelpKINode Title="ILoggerFactoryAdapter.Initialize Method " Url="html/13a025b1-8080-48b2-141b-ddaf5634293c.htm" />
+    <HelpKINode Title="LoggerFactoryAdapterBase.Initialize Method " Url="html/1b7898b2-76ab-678b-0a94-3e42714f782d.htm" />
+    <HelpKINode Title="NoOpLogFactory.Initialize Method " Url="html/dab714b6-8bf5-68c6-c40e-c74f61ed28ef.htm" />
+    <HelpKINode Title="NoOpLoggerFactoryAdapter.Initialize Method " Url="html/6e8cf01b-cc67-9841-d0bd-07d3518af79a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Instance property">
+    <HelpKINode Title="DefaultFormatter.Instance Property " Url="html/5149bbb2-d438-c7bf-6438-3979afc77736.htm" />
+    <HelpKINode Title="NoOpLogFactory.Instance Property " Url="html/dd9c2fd2-3c10-2a0a-801b-ee704c4f2ef1.htm" />
+    <HelpKINode Title="NoOpLoggerFactoryAdapter.Instance Property " Url="html/1f90a632-36d1-23f8-0845-edf4a20fff9b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsDebugEnabled property">
+    <HelpKINode Title="ILog.IsDebugEnabled Property " Url="html/5337d6f0-e270-b21e-30d5-5a83f680f0cf.htm" />
+    <HelpKINode Title="Log.IsDebugEnabled Property " Url="html/c92dfe80-c5d3-3790-c93c-a57935eb42bc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsEnabled method">
+    <HelpKINode Title="ILogger.IsEnabled Method " Url="html/cc02686a-01ca-d541-ae25-c649a56c90f3.htm" />
+    <HelpKINode Title="LoggerBase(TLevel).IsEnabled Method " Url="html/ff72748e-1035-8d56-8436-0f751bbca9cb.htm" />
+    <HelpKINode Title="LoggerBase(TLevel, TSettings).IsEnabled Method " Url="html/8f7baf07-87c2-8de1-34c0-240a28ce09d8.htm" />
+    <HelpKINode Title="LoggerBase.IsEnabled Method " Url="html/8b78f7cb-f42a-da5e-41a3-35383f6f002a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsErrorEnabled property">
+    <HelpKINode Title="ILog.IsErrorEnabled Property " Url="html/4d087249-a638-e8d3-600e-aba46c9dd9bf.htm" />
+    <HelpKINode Title="Log.IsErrorEnabled Property " Url="html/79225e41-1cf3-94cc-98d6-b0fe2fe2cb4c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsFatalEnabled property">
+    <HelpKINode Title="ILog.IsFatalEnabled Property " Url="html/3d34fbd9-0419-2479-f033-1df206983e46.htm" />
+    <HelpKINode Title="Log.IsFatalEnabled Property " Url="html/0b54d4ce-b8fb-9e5a-0a5c-723f52c90330.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsInfoEnabled property">
+    <HelpKINode Title="ILog.IsInfoEnabled Property " Url="html/fded0dd8-b1a9-cd11-c25b-72750b22852f.htm" />
+    <HelpKINode Title="Log.IsInfoEnabled Property " Url="html/7e3f2375-887f-1516-6250-9a8df737cb20.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsTraceEnabled property">
+    <HelpKINode Title="ILog.IsTraceEnabled Property " Url="html/af2eabda-3e6d-1539-da6f-41e57aac1521.htm" />
+    <HelpKINode Title="Log.IsTraceEnabled Property " Url="html/59c51d66-8106-d474-8500-a15aa090db6b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsWarnEnabled property">
+    <HelpKINode Title="ILog.IsWarnEnabled Property " Url="html/b367c102-a01e-dd7c-ed7a-27bf6aa13b8c.htm" />
+    <HelpKINode Title="Log.IsWarnEnabled Property " Url="html/eff59dbf-bf2f-7057-0e59-a905b58aecd9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Level property">
+    <HelpKINode Title="LogEntry.Level Property " Url="html/e28d8b45-f257-f4d6-a4c9-6e497e71e23d.htm" />
+    <HelpKINode Title="LoggerBase(TLevel, TSettings).Level Property " Url="html/ffae8efb-2e86-3a59-cb25-2852be57c36b.htm" />
+    <HelpKINode Title="LoggerSettings.Level Property " Url="html/f20d4445-1a98-0e3c-48e9-9dc59bc75a2a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="license" Url="html/835cb0e6-3fac-4aac-ace3-db119c394b4b.htm" />
+  <HelpKINode Title="LineNumber property" Url="html/c9c08950-9224-31d2-d23c-d567a10eca26.htm" />
+  <HelpKINode Title="Log class">
+    <HelpKINode Title="Log Class" Url="html/64c9dee6-6f47-2f0c-be22-6b2700a05eee.htm" />
+    <HelpKINode Title="about Log class" Url="html/64c9dee6-6f47-2f0c-be22-6b2700a05eee.htm" />
+    <HelpKINode Title="constructor" Url="html/905e0370-c15f-f0df-2aaf-9e463eb008cb.htm" />
+    <HelpKINode Title="methods" Url="html/69a405e7-e93e-953e-774b-4ccbb1b54d6b.htm" />
+    <HelpKINode Title="properties" Url="html/08c9262f-6035-0f84-bfcf-a5cf41535f92.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Log method">
+    <HelpKINode Title="ILogger.Log Method " Url="html/2212c703-319e-c840-2c3b-4c2d2f57b56e.htm" />
+    <HelpKINode Title="LoggerBase(TLevel).Log Method " Url="html/fe24d7df-81d8-aaf5-ffdb-2b76c5a2a3f5.htm" />
+    <HelpKINode Title="LoggerBase.Log Method " Url="html/2d0de24c-aa3b-fc55-1438-4aa4420ce5d6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Log.Debug method" Url="html/10763fe2-b100-0c29-900d-e1d272732fae.htm" />
+  <HelpKINode Title="Log.DebugFormat method" Url="html/fe00e253-09b0-9edb-9c46-95c0a1623d14.htm" />
+  <HelpKINode Title="Log.Dispose method" Url="html/1c0a2e0e-d409-710e-684b-1acf170906a9.htm" />
+  <HelpKINode Title="Log.Error method" Url="html/c8d2f2b4-ff61-0a4f-a8b2-e48142242403.htm" />
+  <HelpKINode Title="Log.ErrorFormat method" Url="html/42ef10b1-f4ad-41bd-60b4-41a5d42e2314.htm" />
+  <HelpKINode Title="Log.Fatal method" Url="html/d4a320b4-e759-67d3-b0de-4461a161e0c4.htm" />
+  <HelpKINode Title="Log.FatalFormat method" Url="html/b4e080c9-299e-b595-f118-5726e0b299b1.htm" />
+  <HelpKINode Title="Log.Formatter property" Url="html/ac7ca1de-84cd-e49f-49f0-a9af406c3673.htm" />
+  <HelpKINode Title="Log.Info method" Url="html/99298e65-e25e-6703-587f-6c81644bbbc6.htm" />
+  <HelpKINode Title="Log.InfoFormat method" Url="html/e3a2aa66-c8b0-2106-33f8-a302f0c6a61c.htm" />
+  <HelpKINode Title="Log.IsDebugEnabled property" Url="html/c92dfe80-c5d3-3790-c93c-a57935eb42bc.htm" />
+  <HelpKINode Title="Log.IsErrorEnabled property" Url="html/79225e41-1cf3-94cc-98d6-b0fe2fe2cb4c.htm" />
+  <HelpKINode Title="Log.IsFatalEnabled property" Url="html/0b54d4ce-b8fb-9e5a-0a5c-723f52c90330.htm" />
+  <HelpKINode Title="Log.IsInfoEnabled property" Url="html/7e3f2375-887f-1516-6250-9a8df737cb20.htm" />
+  <HelpKINode Title="Log.IsTraceEnabled property" Url="html/59c51d66-8106-d474-8500-a15aa090db6b.htm" />
+  <HelpKINode Title="Log.IsWarnEnabled property" Url="html/eff59dbf-bf2f-7057-0e59-a905b58aecd9.htm" />
+  <HelpKINode Title="Log.Log constructor" Url="html/905e0370-c15f-f0df-2aaf-9e463eb008cb.htm" />
+  <HelpKINode Title="Log.Logger property" Url="html/0b5f489e-4301-4b4b-0145-735fdd28f612.htm" />
+  <HelpKINode Title="Log.Trace method" Url="html/757ce40b-45ca-95d0-2e89-ddf53501d74f.htm" />
+  <HelpKINode Title="Log.TraceFormat method" Url="html/7ad6afd4-c9b0-8d1f-00ff-1e0756dfbb83.htm" />
+  <HelpKINode Title="Log.Warn method" Url="html/4f2cc653-468e-cee9-3c67-48f781fd1fa6.htm" />
+  <HelpKINode Title="Log.WarnFormat method" Url="html/49cf2545-f850-b5de-cc3f-d5dd4563deff.htm" />
+  <HelpKINode Title="LogEntry class">
+    <HelpKINode Title="LogEntry Class" Url="html/15063d33-9334-ae6b-f3d3-56dae046853d.htm" />
+    <HelpKINode Title="about LogEntry class" Url="html/15063d33-9334-ae6b-f3d3-56dae046853d.htm" />
+    <HelpKINode Title="constructor" Url="html/aebfe1c2-5170-fb3b-a2ad-7216361aeae5.htm" />
+    <HelpKINode Title="methods" Url="html/23aaaf7b-6379-b298-9f31-92c2ca66fbcb.htm" />
+    <HelpKINode Title="properties" Url="html/35c51068-c6fd-b1aa-fd63-4c91206d27e9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogEntry.Caller property" Url="html/2394ac66-462c-a505-0402-700f929412e7.htm" />
+  <HelpKINode Title="LogEntry.Exception property" Url="html/0887cb2f-5455-f823-c6df-752ab0f8c6d7.htm" />
+  <HelpKINode Title="LogEntry.Level property" Url="html/e28d8b45-f257-f4d6-a4c9-6e497e71e23d.htm" />
+  <HelpKINode Title="LogEntry.LogEntry constructor" Url="html/aebfe1c2-5170-fb3b-a2ad-7216361aeae5.htm" />
+  <HelpKINode Title="LogEntry.Message property" Url="html/179d7455-8871-21c2-7583-d01dd9e8cd85.htm" />
+  <HelpKINode Title="LogEntry.Name property" Url="html/05a8cc5f-ecfe-df7a-3d53-6319fbc3d9b8.htm" />
+  <HelpKINode Title="LogEntry.Properties property" Url="html/a9c280b1-f513-a393-323a-9d684a271962.htm" />
+  <HelpKINode Title="LogEntry.Timestamp property" Url="html/c3f65f90-c190-baa2-e941-a4db28484500.htm" />
+  <HelpKINode Title="Logger property">
+    <HelpKINode Title="ILog.Logger Property " Url="html/6123836e-8536-e659-7d66-ae5687ccdee1.htm" />
+    <HelpKINode Title="Log.Logger Property " Url="html/0b5f489e-4301-4b4b-0145-735fdd28f612.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerBase class">
+    <HelpKINode Title="LoggerBase Class" Url="html/7f6dcbd7-d488-ba58-d106-77fee80af4b1.htm" />
+    <HelpKINode Title="about LoggerBase class" Url="html/7f6dcbd7-d488-ba58-d106-77fee80af4b1.htm" />
+    <HelpKINode Title="constructor" Url="html/21a1ac26-896c-43ae-1135-a43bd64a3e56.htm" />
+    <HelpKINode Title="methods" Url="html/b3b1b806-41d3-84e2-d821-55df7eb1ae3c.htm" />
+    <HelpKINode Title="properties" Url="html/f96b8006-41c6-9635-ab04-4744af24d426.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerBase(Of TLevel) class">
+    <HelpKINode Title="LoggerBase(TLevel) Class" Url="html/f21d2350-fbb3-b518-d33a-d8528948d7c4.htm" />
+    <HelpKINode Title="about LoggerBase(Of TLevel) class" Url="html/f21d2350-fbb3-b518-d33a-d8528948d7c4.htm" />
+    <HelpKINode Title="constructor" Url="html/cd9b950e-2c18-4f15-dd01-e9f8f6b59103.htm" />
+    <HelpKINode Title="methods" Url="html/0d5d0cb5-d792-fb82-f04c-2b9d4ef41bed.htm" />
+    <HelpKINode Title="properties" Url="html/36923e66-172d-bce5-7b98-14f3c88c8b3d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerBase(Of TLevel).GetLevel method" Url="html/20b71293-7f90-0116-be83-66cb56291fee.htm" />
+  <HelpKINode Title="LoggerBase(Of TLevel).IsEnabled method" Url="html/ff72748e-1035-8d56-8436-0f751bbca9cb.htm" />
+  <HelpKINode Title="LoggerBase(Of TLevel).Log method" Url="html/fe24d7df-81d8-aaf5-ffdb-2b76c5a2a3f5.htm" />
+  <HelpKINode Title="LoggerBase(Of TLevel).LoggerBase constructor" Url="html/cd9b950e-2c18-4f15-dd01-e9f8f6b59103.htm" />
+  <HelpKINode Title="LoggerBase(Of TLevel, TSettings) class">
+    <HelpKINode Title="LoggerBase(TLevel, TSettings) Class" Url="html/066e3847-9b9c-2212-1af6-35a5cfa1ab5d.htm" />
+    <HelpKINode Title="about LoggerBase(Of TLevel, TSettings) class" Url="html/066e3847-9b9c-2212-1af6-35a5cfa1ab5d.htm" />
+    <HelpKINode Title="constructor" Url="html/6c1debb9-beb0-84dd-40a6-bd41fdffba41.htm" />
+    <HelpKINode Title="methods" Url="html/96a1142e-d68d-09e4-31d0-cc1ffd3822f2.htm" />
+    <HelpKINode Title="properties" Url="html/f58650dd-e001-a711-0aa2-a8f1ef94e388.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerBase(Of TLevel, TSettings).IsEnabled method" Url="html/8f7baf07-87c2-8de1-34c0-240a28ce09d8.htm" />
+  <HelpKINode Title="LoggerBase(Of TLevel, TSettings).Level property" Url="html/ffae8efb-2e86-3a59-cb25-2852be57c36b.htm" />
+  <HelpKINode Title="LoggerBase(Of TLevel, TSettings).LoggerBase constructor" Url="html/6c1debb9-beb0-84dd-40a6-bd41fdffba41.htm" />
+  <HelpKINode Title="LoggerBase(Of TLevel, TSettings).Settings property" Url="html/3970182a-2caa-d7f5-c3ba-decd3dc56e73.htm" />
+  <HelpKINode Title="LoggerBase.Dispose method" Url="html/b4e422c0-6d4f-2d35-c287-8dd13bee4bcb.htm" />
+  <HelpKINode Title="LoggerBase.Finalize method" Url="html/8c6f7feb-b479-9514-73c5-33f65831a0dc.htm" />
+  <HelpKINode Title="LoggerBase.IsEnabled method" Url="html/8b78f7cb-f42a-da5e-41a3-35383f6f002a.htm" />
+  <HelpKINode Title="LoggerBase.Log method" Url="html/2d0de24c-aa3b-fc55-1438-4aa4420ce5d6.htm" />
+  <HelpKINode Title="LoggerBase.LoggerBase constructor" Url="html/21a1ac26-896c-43ae-1135-a43bd64a3e56.htm" />
+  <HelpKINode Title="LoggerBase.Name property" Url="html/dff060c6-7a10-6309-288b-50f2d4e17394.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel, TSettings&gt; class">
+    <HelpKINode Title="LoggerBase(TLevel, TSettings) Class" Url="html/066e3847-9b9c-2212-1af6-35a5cfa1ab5d.htm" />
+    <HelpKINode Title="about LoggerBase&lt;TLevel, TSettings&gt; class" Url="html/066e3847-9b9c-2212-1af6-35a5cfa1ab5d.htm" />
+    <HelpKINode Title="constructor" Url="html/6c1debb9-beb0-84dd-40a6-bd41fdffba41.htm" />
+    <HelpKINode Title="methods" Url="html/96a1142e-d68d-09e4-31d0-cc1ffd3822f2.htm" />
+    <HelpKINode Title="properties" Url="html/f58650dd-e001-a711-0aa2-a8f1ef94e388.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerBase&lt;TLevel, TSettings&gt;.IsEnabled method" Url="html/8f7baf07-87c2-8de1-34c0-240a28ce09d8.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel, TSettings&gt;.Level property" Url="html/ffae8efb-2e86-3a59-cb25-2852be57c36b.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel, TSettings&gt;.LoggerBase constructor" Url="html/6c1debb9-beb0-84dd-40a6-bd41fdffba41.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel, TSettings&gt;.Settings property" Url="html/3970182a-2caa-d7f5-c3ba-decd3dc56e73.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel&gt; class">
+    <HelpKINode Title="LoggerBase(TLevel) Class" Url="html/f21d2350-fbb3-b518-d33a-d8528948d7c4.htm" />
+    <HelpKINode Title="about LoggerBase&lt;TLevel&gt; class" Url="html/f21d2350-fbb3-b518-d33a-d8528948d7c4.htm" />
+    <HelpKINode Title="constructor" Url="html/cd9b950e-2c18-4f15-dd01-e9f8f6b59103.htm" />
+    <HelpKINode Title="methods" Url="html/0d5d0cb5-d792-fb82-f04c-2b9d4ef41bed.htm" />
+    <HelpKINode Title="properties" Url="html/36923e66-172d-bce5-7b98-14f3c88c8b3d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerBase&lt;TLevel&gt;.GetLevel method" Url="html/20b71293-7f90-0116-be83-66cb56291fee.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel&gt;.IsEnabled method" Url="html/ff72748e-1035-8d56-8436-0f751bbca9cb.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel&gt;.Log method" Url="html/fe24d7df-81d8-aaf5-ffdb-2b76c5a2a3f5.htm" />
+  <HelpKINode Title="LoggerBase&lt;TLevel&gt;.LoggerBase constructor" Url="html/cd9b950e-2c18-4f15-dd01-e9f8f6b59103.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase class">
+    <HelpKINode Title="LoggerFactoryAdapterBase Class" Url="html/5d2e9306-45f4-e6c8-e37d-463341dd2bbd.htm" />
+    <HelpKINode Title="about LoggerFactoryAdapterBase class" Url="html/5d2e9306-45f4-e6c8-e37d-463341dd2bbd.htm" />
+    <HelpKINode Title="constructor" Url="html/3152e9ba-4681-2c85-41d5-6046c8b7ea7a.htm" />
+    <HelpKINode Title="methods" Url="html/01a63e29-6b4d-2506-e5cc-89afdcb97c47.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerFactoryAdapterBase(Of TSettings) class">
+    <HelpKINode Title="LoggerFactoryAdapterBase(TSettings) Class" Url="html/072fa7ec-bb57-cfef-0b91-211eafaaf71e.htm" />
+    <HelpKINode Title="about LoggerFactoryAdapterBase(Of TSettings) class" Url="html/072fa7ec-bb57-cfef-0b91-211eafaaf71e.htm" />
+    <HelpKINode Title="constructor" Url="html/64bc903a-4658-a626-7fa9-47633e196027.htm" />
+    <HelpKINode Title="methods" Url="html/325ecf29-e40c-0ba6-bc17-358d379b5ac3.htm" />
+    <HelpKINode Title="properties" Url="html/452121cb-6478-f548-bbfe-c683bd329b14.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerFactoryAdapterBase(Of TSettings).CreateSettings method" Url="html/3f11b5c2-396c-70d4-3db6-f72c1c7eb466.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase(Of TSettings).LoggerFactoryAdapterBase constructor" Url="html/64bc903a-4658-a626-7fa9-47633e196027.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase(Of TSettings).Settings property" Url="html/0acd1834-3afb-5c49-bf8d-3f99ddd8c19a.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase.GetLogger method" Url="html/62f3f0dd-9153-cb25-9053-dcaff72bad1a.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase.Initialize method" Url="html/1b7898b2-76ab-678b-0a94-3e42714f782d.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase.LoggerFactoryAdapterBase constructor" Url="html/3152e9ba-4681-2c85-41d5-6046c8b7ea7a.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase.Shutdown method" Url="html/ab3292bc-9a1b-989e-6574-49f1adda6d11.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase&lt;TSettings&gt; class">
+    <HelpKINode Title="LoggerFactoryAdapterBase(TSettings) Class" Url="html/072fa7ec-bb57-cfef-0b91-211eafaaf71e.htm" />
+    <HelpKINode Title="about LoggerFactoryAdapterBase&lt;TSettings&gt; class" Url="html/072fa7ec-bb57-cfef-0b91-211eafaaf71e.htm" />
+    <HelpKINode Title="constructor" Url="html/64bc903a-4658-a626-7fa9-47633e196027.htm" />
+    <HelpKINode Title="methods" Url="html/325ecf29-e40c-0ba6-bc17-358d379b5ac3.htm" />
+    <HelpKINode Title="properties" Url="html/452121cb-6478-f548-bbfe-c683bd329b14.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerFactoryAdapterBase&lt;TSettings&gt;.CreateSettings method" Url="html/3f11b5c2-396c-70d4-3db6-f72c1c7eb466.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase&lt;TSettings&gt;.LoggerFactoryAdapterBase constructor" Url="html/64bc903a-4658-a626-7fa9-47633e196027.htm" />
+  <HelpKINode Title="LoggerFactoryAdapterBase&lt;TSettings&gt;.Settings property" Url="html/0acd1834-3afb-5c49-bf8d-3f99ddd8c19a.htm" />
+  <HelpKINode Title="LoggerSettings class">
+    <HelpKINode Title="LoggerSettings Class" Url="html/6bd52f16-15d1-cc5c-865a-f8a66d598cfd.htm" />
+    <HelpKINode Title="about LoggerSettings class" Url="html/6bd52f16-15d1-cc5c-865a-f8a66d598cfd.htm" />
+    <HelpKINode Title="constructor" Url="html/6805f9a6-fb38-b86b-dcf9-295781a38307.htm" />
+    <HelpKINode Title="methods" Url="html/b653b3d6-045c-6c8e-57ee-253cf170f87c.htm" />
+    <HelpKINode Title="properties" Url="html/a545fd9a-5c1a-6fb7-b2b7-ec3ee228bfd7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerSettings.Level property" Url="html/f20d4445-1a98-0e3c-48e9-9dc59bc75a2a.htm" />
+  <HelpKINode Title="LoggerSettings.LoggerSettings constructor" Url="html/6805f9a6-fb38-b86b-dcf9-295781a38307.htm" />
+  <HelpKINode Title="LogLevel enumeration" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="MemberName property" Url="html/9622f4e1-a6d9-4a96-f6e6-e12a729a63fe.htm" />
+  <HelpKINode Title="Message property" Url="html/179d7455-8871-21c2-7583-d01dd9e8cd85.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="ILogger.Name Property " Url="html/c065e674-61c0-c2cf-f1cd-d94544d42f8e.htm" />
+    <HelpKINode Title="LogEntry.Name Property " Url="html/05a8cc5f-ecfe-df7a-3d53-6319fbc3d9b8.htm" />
+    <HelpKINode Title="LoggerBase.Name Property " Url="html/dff060c6-7a10-6309-288b-50f2d4e17394.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NoOpLogFactory class">
+    <HelpKINode Title="NoOpLogFactory Class" Url="html/27a81d9e-c791-8a69-f0e3-c6bf91532432.htm" />
+    <HelpKINode Title="about NoOpLogFactory class" Url="html/27a81d9e-c791-8a69-f0e3-c6bf91532432.htm" />
+    <HelpKINode Title="methods" Url="html/eaef0503-fa32-aaa5-af46-4f697ccc1352.htm" />
+    <HelpKINode Title="properties" Url="html/16b432d6-4bb6-af58-a27b-a978d0221b97.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NoOpLogFactory.GetLogger method" Url="html/46ec264b-0740-abc4-aa8d-36c3abfdd469.htm" />
+  <HelpKINode Title="NoOpLogFactory.Initialize method" Url="html/dab714b6-8bf5-68c6-c40e-c74f61ed28ef.htm" />
+  <HelpKINode Title="NoOpLogFactory.Instance property" Url="html/dd9c2fd2-3c10-2a0a-801b-ee704c4f2ef1.htm" />
+  <HelpKINode Title="NoOpLogFactory.Shutdown method" Url="html/c1eb9314-62fe-a787-d4b3-a4f78c295ec1.htm" />
+  <HelpKINode Title="NoOpLoggerFactoryAdapter class">
+    <HelpKINode Title="NoOpLoggerFactoryAdapter Class" Url="html/33549235-dccd-7003-ef97-0684c4b37259.htm" />
+    <HelpKINode Title="about NoOpLoggerFactoryAdapter class" Url="html/33549235-dccd-7003-ef97-0684c4b37259.htm" />
+    <HelpKINode Title="methods" Url="html/6216963c-268e-5e65-7eb8-f33edd92c2ee.htm" />
+    <HelpKINode Title="properties" Url="html/a7f53fa9-2104-af6f-5f94-9f413c385496.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NoOpLoggerFactoryAdapter.GetLogger method" Url="html/38915233-7a78-8c2f-48d2-a433121f5ef0.htm" />
+  <HelpKINode Title="NoOpLoggerFactoryAdapter.Initialize method" Url="html/6e8cf01b-cc67-9841-d0bd-07d3518af79a.htm" />
+  <HelpKINode Title="NoOpLoggerFactoryAdapter.Instance property" Url="html/1f90a632-36d1-23f8-0845-edf4a20fff9b.htm" />
+  <HelpKINode Title="NoOpLoggerFactoryAdapter.Shutdown method" Url="html/8aa61b1b-169c-4a1a-738e-f36dbbf211ac.htm" />
+  <HelpKINode Title="Off enumeration member" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Prefix property">
+    <HelpKINode Title="DefaultFormatter.Prefix Property " Url="html/49f1a0ab-42d5-fe91-ba9e-6c17bbf0b529.htm" />
+    <HelpKINode Title="FormatterBase.Prefix Property " Url="html/22df40b6-3e1f-96ad-0cb0-4007f347b3f4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Prologue property">
+    <HelpKINode Title="DefaultFormatter.Prologue Property " Url="html/6fd7e530-2f68-fafd-404f-4d0bcee66923.htm" />
+    <HelpKINode Title="FormatterBase.Prologue Property " Url="html/9d6bec8d-73f8-1310-a59f-caba829f6a0a.htm" />
+    <HelpKINode Title="ILogFormatter.Prologue Property " Url="html/8c0178fd-d667-74bc-48f9-1439b46fa7c5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Properties property" Url="html/a9c280b1-f513-a393-323a-9d684a271962.htm" />
+  <HelpKINode Title="Settings property">
+    <HelpKINode Title="LoggerBase(TLevel, TSettings).Settings Property " Url="html/3970182a-2caa-d7f5-c3ba-decd3dc56e73.htm" />
+    <HelpKINode Title="LoggerFactoryAdapterBase(TSettings).Settings Property " Url="html/0acd1834-3afb-5c49-bf8d-3f99ddd8c19a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Shutdown method">
+    <HelpKINode Title="ILogFactory.Shutdown Method " Url="html/08a309c0-979c-3730-74eb-624b512f40ec.htm" />
+    <HelpKINode Title="ILoggerFactoryAdapter.Shutdown Method " Url="html/96afa1da-f373-774a-fa2f-815a582bd693.htm" />
+    <HelpKINode Title="LoggerFactoryAdapterBase.Shutdown Method " Url="html/ab3292bc-9a1b-989e-6574-49f1adda6d11.htm" />
+    <HelpKINode Title="NoOpLogFactory.Shutdown Method " Url="html/c1eb9314-62fe-a787-d4b3-a4f78c295ec1.htm" />
+    <HelpKINode Title="NoOpLoggerFactoryAdapter.Shutdown Method " Url="html/8aa61b1b-169c-4a1a-738e-f36dbbf211ac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Suffix property">
+    <HelpKINode Title="DefaultFormatter.Suffix Property " Url="html/33de351c-32a0-d591-9afb-5e51975836d4.htm" />
+    <HelpKINode Title="FormatterBase.Suffix Property " Url="html/5dd97665-d27a-b611-fc70-803ecc4770e0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Timestamp property" Url="html/c3f65f90-c190-baa2-e941-a4db28484500.htm" />
+  <HelpKINode Title="Trace enumeration member" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Trace method">
+    <HelpKINode Title="ILog.Trace Method " Url="html/a83abc19-849d-9ffd-e9cd-820007cc584f.htm" />
+    <HelpKINode Title="Log.Trace Method " Url="html/757ce40b-45ca-95d0-2e89-ddf53501d74f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TraceFormat method">
+    <HelpKINode Title="ILog.TraceFormat Method " Url="html/71083e36-955b-3663-b530-45bfe4f956b5.htm" />
+    <HelpKINode Title="Log.TraceFormat Method " Url="html/7ad6afd4-c9b0-8d1f-00ff-1e0756dfbb83.htm" />
+  </HelpKINode>
+  <HelpKINode Title="version">
+    <HelpKINode Title="0.1.0" Url="html/4e7aaeec-3b96-49d0-af4c-7cbf74b4b576.htm" />
+    <HelpKINode Title="history" Url="html/b71d6332-cce6-4854-96a8-3577be788ceb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Warn enumeration member" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Warn method">
+    <HelpKINode Title="ILog.Warn Method " Url="html/b0996162-3dc7-7b3d-2a72-17f006a95a78.htm" />
+    <HelpKINode Title="Log.Warn Method " Url="html/4f2cc653-468e-cee9-3c67-48f781fd1fa6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WarnFormat method">
+    <HelpKINode Title="ILog.WarnFormat Method " Url="html/fafff090-9029-b80c-ed67-2d70a0a96e0f.htm" />
+    <HelpKINode Title="Log.WarnFormat Method " Url="html/49cf2545-f850-b5de-cc3f-d5dd4563deff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/3d2cf4e7-408f-455f-89ca-9d7f0cbeaad8.htm" />
+  <HelpKINode Title="Yalla namespace" Url="html/f5a82911-ff4f-fce0-93b1-62650a193a7e.htm" />
+  <HelpKINode Title="Yalla.CallerInfo class" Url="html/0a06878d-82f7-349e-be2b-1092447d49a4.htm" />
+  <HelpKINode Title="Yalla.DefaultFormatter class" Url="html/d46a5f9b-ad8b-4db1-ed07-ec853021454b.htm" />
+  <HelpKINode Title="Yalla.FormatMessageCallback delegate" Url="html/357bfe50-4c71-9083-483a-ccebfd1c07c6.htm" />
+  <HelpKINode Title="Yalla.FormatMessageHandler delegate" Url="html/2be5bc87-61d1-732f-c0c1-a8333f96ef12.htm" />
+  <HelpKINode Title="Yalla.FormatterBase class" Url="html/9eda2b15-f36f-be0c-93fe-139974f0ff1f.htm" />
+  <HelpKINode Title="Yalla.IConfigurationSource interface" Url="html/27e03ebe-6761-f28f-99a7-283211c49e96.htm" />
+  <HelpKINode Title="Yalla.ILog interface" Url="html/158aaeda-37a4-d087-be1c-7f509723ad27.htm" />
+  <HelpKINode Title="Yalla.ILogFactory interface" Url="html/0d982073-ed87-d14c-6e19-3e892c677a04.htm" />
+  <HelpKINode Title="Yalla.ILogFormatter interface" Url="html/0eedaa6f-435b-effb-493a-7279c7e6dca6.htm" />
+  <HelpKINode Title="Yalla.ILogger interface" Url="html/285553aa-8d7a-f9c0-72f7-7c54fed1ff65.htm" />
+  <HelpKINode Title="Yalla.ILoggerFactoryAdapter interface" Url="html/994c5bbf-d467-cebc-3c89-1d312bdeabac.htm" />
+  <HelpKINode Title="Yalla.Log class" Url="html/64c9dee6-6f47-2f0c-be22-6b2700a05eee.htm" />
+  <HelpKINode Title="Yalla.LogEntry class" Url="html/15063d33-9334-ae6b-f3d3-56dae046853d.htm" />
+  <HelpKINode Title="Yalla.LoggerBase class" Url="html/7f6dcbd7-d488-ba58-d106-77fee80af4b1.htm" />
+  <HelpKINode Title="Yalla.LoggerBase(Of TLevel) class" Url="html/f21d2350-fbb3-b518-d33a-d8528948d7c4.htm" />
+  <HelpKINode Title="Yalla.LoggerBase(Of TLevel, TSettings) class" Url="html/066e3847-9b9c-2212-1af6-35a5cfa1ab5d.htm" />
+  <HelpKINode Title="Yalla.LoggerBase&lt;TLevel, TSettings&gt; class" Url="html/066e3847-9b9c-2212-1af6-35a5cfa1ab5d.htm" />
+  <HelpKINode Title="Yalla.LoggerBase&lt;TLevel&gt; class" Url="html/f21d2350-fbb3-b518-d33a-d8528948d7c4.htm" />
+  <HelpKINode Title="Yalla.LoggerFactoryAdapterBase class" Url="html/5d2e9306-45f4-e6c8-e37d-463341dd2bbd.htm" />
+  <HelpKINode Title="Yalla.LoggerFactoryAdapterBase(Of TSettings) class" Url="html/072fa7ec-bb57-cfef-0b91-211eafaaf71e.htm" />
+  <HelpKINode Title="Yalla.LoggerFactoryAdapterBase&lt;TSettings&gt; class" Url="html/072fa7ec-bb57-cfef-0b91-211eafaaf71e.htm" />
+  <HelpKINode Title="Yalla.LoggerSettings class" Url="html/6bd52f16-15d1-cc5c-865a-f8a66d598cfd.htm" />
+  <HelpKINode Title="Yalla.LogLevel enumeration" Url="html/f34ee76d-b516-4334-f151-9ccc4492470b.htm" />
+  <HelpKINode Title="Yalla.NoOpLogFactory class" Url="html/27a81d9e-c791-8a69-f0e3-c6bf91532432.htm" />
+  <HelpKINode Title="Yalla.NoOpLoggerFactoryAdapter class" Url="html/33549235-dccd-7003-ef97-0684c4b37259.htm" />
+</HelpKI>
