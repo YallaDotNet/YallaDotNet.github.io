@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Alert enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="AppName property" Url="html/e0d20136-a47b-35e2-5c13-18614ab273a6.htm" />
+  <HelpKINode Title="AsyncSyslogDelegateSender class">
+    <HelpKINode Title="AsyncSyslogDelegateSender Class" Url="html/b972b8ea-1ef2-264e-2f09-21766f9286b9.htm" />
+    <HelpKINode Title="about AsyncSyslogDelegateSender class" Url="html/b972b8ea-1ef2-264e-2f09-21766f9286b9.htm" />
+    <HelpKINode Title="constructor" Url="html/fc4623d9-a64e-b399-86a4-6acd21c67ccf.htm" />
+    <HelpKINode Title="methods" Url="html/3356d88f-2267-431c-fa69-8a11e6a51944.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncSyslogDelegateSender.AsyncSyslogDelegateSender constructor" Url="html/fc4623d9-a64e-b399-86a4-6acd21c67ccf.htm" />
+  <HelpKINode Title="AsyncSyslogDelegateSender.ConnectAsync method" Url="html/7723b540-b23b-c447-8ec5-b32a63992c0a.htm" />
+  <HelpKINode Title="AsyncSyslogDelegateSender.DisconnectAsync method" Url="html/058b5340-fa02-7eab-a4bd-45e3144044bf.htm" />
+  <HelpKINode Title="AsyncSyslogDelegateSender.Dispose method" Url="html/24f6e38e-222a-3164-57c2-64d3b7045755.htm" />
+  <HelpKINode Title="AsyncSyslogDelegateSender.ReconnectAsync method" Url="html/c87e0c5a-2a5e-5788-e749-a5b2417327ee.htm" />
+  <HelpKINode Title="AsyncSyslogDelegateSender.SendAsync method" Url="html/ec1cf85f-e43b-b2e2-8ae8-fa39790031f6.htm" />
+  <HelpKINode Title="AsyncSyslogSecureTcpSender class">
+    <HelpKINode Title="AsyncSyslogSecureTcpSender Class" Url="html/32bb9360-ff93-4dd0-b17a-bbfabd97a223.htm" />
+    <HelpKINode Title="about AsyncSyslogSecureTcpSender class" Url="html/32bb9360-ff93-4dd0-b17a-bbfabd97a223.htm" />
+    <HelpKINode Title="constructor" Url="html/e0d1a45d-6315-8d67-b7c8-2848fe04390c.htm" />
+    <HelpKINode Title="methods" Url="html/d9e158bd-4ca6-bb04-ca67-23737c9af69f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncSyslogSecureTcpSender.AsyncSyslogSecureTcpSender constructor" Url="html/e0d1a45d-6315-8d67-b7c8-2848fe04390c.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase class">
+    <HelpKINode Title="AsyncSyslogSenderBase Class" Url="html/35567c28-de53-644a-3e0f-c2dd736f28ba.htm" />
+    <HelpKINode Title="about AsyncSyslogSenderBase class" Url="html/35567c28-de53-644a-3e0f-c2dd736f28ba.htm" />
+    <HelpKINode Title="constructor" Url="html/6f2f71f5-8a13-911f-deeb-588a1fa7da15.htm" />
+    <HelpKINode Title="methods" Url="html/f6ea8556-f336-8094-6772-06c709dc4456.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncSyslogSenderBase.AsyncSyslogSenderBase constructor" Url="html/6f2f71f5-8a13-911f-deeb-588a1fa7da15.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase.ConnectAsync method" Url="html/0bdf4d46-ff20-2229-d931-a92c9849276e.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase.DisconnectAsync method" Url="html/ef601d35-1a46-f5ef-e96e-4db9faeb0c88.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase.Dispose method" Url="html/37b2faf8-173a-9874-fd24-3311719a5def.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase.ReconnectAsync method" Url="html/e5e7772b-8caa-5951-9c55-3fb3173e0281.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase.SendAsync method" Url="html/d106bd78-b43e-24b5-e3b8-6a15e8c958d4.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase.Serialize method" Url="html/a162690b-4d98-ea22-ab13-e2128bc9c935.htm" />
+  <HelpKINode Title="AsyncSyslogSenderBase.WriteAsync method" Url="html/a04e5bcc-e894-a66b-f3ae-d42feb8a1bd7.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSender class">
+    <HelpKINode Title="AsyncSyslogTcpSender Class" Url="html/a237b573-5933-21b6-06a6-e4aee84791e2.htm" />
+    <HelpKINode Title="about AsyncSyslogTcpSender class" Url="html/a237b573-5933-21b6-06a6-e4aee84791e2.htm" />
+    <HelpKINode Title="constructor" Url="html/42862834-ecca-e629-2fe8-781dd4fa0e43.htm" />
+    <HelpKINode Title="methods" Url="html/1579d862-5a55-8162-6a90-4f35bdc1169e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncSyslogTcpSender.AsyncSyslogTcpSender constructor" Url="html/42862834-ecca-e629-2fe8-781dd4fa0e43.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase class">
+    <HelpKINode Title="AsyncSyslogTcpSenderBase Class" Url="html/046cada7-7fa2-c297-7bf6-d2228466807e.htm" />
+    <HelpKINode Title="about AsyncSyslogTcpSenderBase class" Url="html/046cada7-7fa2-c297-7bf6-d2228466807e.htm" />
+    <HelpKINode Title="constructor" Url="html/f40f252b-ab0f-e412-740c-e6895e755787.htm" />
+    <HelpKINode Title="methods" Url="html/1e581bb0-8b59-9298-28db-76e94f9f97b3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.AsyncSyslogTcpSenderBase constructor" Url="html/f40f252b-ab0f-e412-740c-e6895e755787.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.ConnectAsync method" Url="html/6ba7b6a1-bfa2-8bb0-216b-8ea6b31f189c.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.DisconnectAsync method" Url="html/6a1273a6-ef8b-0297-be89-65c25929c5f7.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.Dispose method" Url="html/732e4308-c866-e299-54c0-84aecfe186d5.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.ReconnectAsync method" Url="html/038ac42b-9ac3-47c5-d08c-c75c8788b52c.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.SendAsync method" Url="html/c7d95f06-129b-11fb-6e11-236a291eaa7b.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.Serialize method" Url="html/5ab6aa28-e24b-3095-8e14-5d8584ebb4be.htm" />
+  <HelpKINode Title="AsyncSyslogTcpSenderBase.WriteAsync method" Url="html/8014a825-3473-a182-cb57-a79cd9fcf837.htm" />
+  <HelpKINode Title="AsyncSyslogUdpSender class">
+    <HelpKINode Title="AsyncSyslogUdpSender Class" Url="html/a7bdce8b-8c5a-6b35-65df-a4764c5d5451.htm" />
+    <HelpKINode Title="about AsyncSyslogUdpSender class" Url="html/a7bdce8b-8c5a-6b35-65df-a4764c5d5451.htm" />
+    <HelpKINode Title="constructor" Url="html/03fae67d-df9d-7758-7488-060c1d5824b1.htm" />
+    <HelpKINode Title="methods" Url="html/a94af714-2c7e-e8fa-f5ad-cfa5e933a93f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsyncSyslogUdpSender.AsyncSyslogUdpSender constructor" Url="html/03fae67d-df9d-7758-7488-060c1d5824b1.htm" />
+  <HelpKINode Title="AsyncSyslogUdpSender.DisconnectAsync method" Url="html/1825663a-f602-45bf-71c9-822e18cb921f.htm" />
+  <HelpKINode Title="AsyncSyslogUdpSender.Dispose method" Url="html/d87b7a88-263d-634d-ca98-d5e6bfd11991.htm" />
+  <HelpKINode Title="AsyncSyslogUdpSender.ReconnectAsync method" Url="html/2f029978-f1ef-24df-ad03-5f1a0d00bd5d.htm" />
+  <HelpKINode Title="CalculatePriorityValue method" Url="html/9aa8862d-e50a-555e-76ef-a2ad06656efd.htm" />
+  <HelpKINode Title="ClockDaemon1 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="ClockDaemon2 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="Connect method" Url="html/94fc1ccd-9f53-bf7f-385a-8f1e6d28902c.htm" />
+  <HelpKINode Title="ConnectAsync method">
+    <HelpKINode Title="AsyncSyslogDelegateSender.ConnectAsync Method " Url="html/7723b540-b23b-c447-8ec5-b32a63992c0a.htm" />
+    <HelpKINode Title="AsyncSyslogSenderBase.ConnectAsync Method " Url="html/0bdf4d46-ff20-2229-d931-a92c9849276e.htm" />
+    <HelpKINode Title="AsyncSyslogTcpSenderBase.ConnectAsync Method " Url="html/6ba7b6a1-bfa2-8bb0-216b-8ea6b31f189c.htm" />
+    <HelpKINode Title="IAsyncSyslogMessageSender.ConnectAsync Method " Url="html/8724b3bb-b0e3-283e-ce6d-1a57140d1d4f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Critical enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="DateTimeOffset property" Url="html/37ee2e3a-d678-b68b-e87a-09a052ff6f79.htm" />
+  <HelpKINode Title="Debug enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="Default property" Url="html/aa42e552-1ba8-22b8-1b3d-befaf5298eeb.htm" />
+  <HelpKINode Title="DefaultFacility field" Url="html/89c3759a-0e75-181c-5778-de2c9e6e135f.htm" />
+  <HelpKINode Title="DefaultPrivateEnterpriseNumber field" Url="html/319ed611-c635-c3ae-eeac-9cd8b528cbe2.htm" />
+  <HelpKINode Title="DefaultSeverity field" Url="html/e50132c3-72ec-1263-3c67-00a7b9da40a1.htm" />
+  <HelpKINode Title="Disconnect method" Url="html/916ec5c8-7a5b-ad68-50de-649155bf15f7.htm" />
+  <HelpKINode Title="DisconnectAsync method">
+    <HelpKINode Title="AsyncSyslogDelegateSender.DisconnectAsync Method " Url="html/058b5340-fa02-7eab-a4bd-45e3144044bf.htm" />
+    <HelpKINode Title="AsyncSyslogSenderBase.DisconnectAsync Method " Url="html/ef601d35-1a46-f5ef-e96e-4db9faeb0c88.htm" />
+    <HelpKINode Title="AsyncSyslogTcpSenderBase.DisconnectAsync Method " Url="html/6a1273a6-ef8b-0297-be89-65c25929c5f7.htm" />
+    <HelpKINode Title="AsyncSyslogUdpSender.DisconnectAsync Method " Url="html/1825663a-f602-45bf-71c9-822e18cb921f.htm" />
+    <HelpKINode Title="IAsyncSyslogMessageSender.DisconnectAsync Method " Url="html/f1c19150-84ad-110e-0eef-f2cfad3a1647.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="AsyncSyslogDelegateSender.Dispose Method " Url="html/24f6e38e-222a-3164-57c2-64d3b7045755.htm" />
+    <HelpKINode Title="AsyncSyslogSenderBase.Dispose Method " Url="html/37b2faf8-173a-9874-fd24-3311719a5def.htm" />
+    <HelpKINode Title="AsyncSyslogTcpSenderBase.Dispose Method " Url="html/732e4308-c866-e299-54c0-84aecfe186d5.htm" />
+    <HelpKINode Title="AsyncSyslogUdpSender.Dispose Method " Url="html/d87b7a88-263d-634d-ca98-d5e6bfd11991.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Emergency enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="Encoding property">
+    <HelpKINode Title="ISyslogMessageSerializer.Encoding Property " Url="html/10e950fa-ac37-ceac-c8df-ac6cb62ad9b1.htm" />
+    <HelpKINode Title="SyslogMessageSerializerBase.Encoding Property " Url="html/35fccec4-1b70-a44f-adf6-9dab4385c7e5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Error enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="Facility enumeration" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="Facility property" Url="html/f3eaf1a0-65bd-ff32-cc1a-67afc9474539.htm" />
+  <HelpKINode Title="FTPDaemon enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="HostName property" Url="html/a8cf06d9-a0e9-7b20-521e-07bdfd19e5bf.htm" />
+  <HelpKINode Title="IAsyncSyslogMessageSender interface">
+    <HelpKINode Title="IAsyncSyslogMessageSender Interface" Url="html/cd6bab9f-5ffe-bbcb-eb1b-6202115f6862.htm" />
+    <HelpKINode Title="about IAsyncSyslogMessageSender interface" Url="html/cd6bab9f-5ffe-bbcb-eb1b-6202115f6862.htm" />
+    <HelpKINode Title="methods" Url="html/94abc51d-e96c-c7bf-2856-b9405ef21564.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncSyslogMessageSender.ConnectAsync method" Url="html/8724b3bb-b0e3-283e-ce6d-1a57140d1d4f.htm" />
+  <HelpKINode Title="IAsyncSyslogMessageSender.DisconnectAsync method" Url="html/f1c19150-84ad-110e-0eef-f2cfad3a1647.htm" />
+  <HelpKINode Title="IAsyncSyslogMessageSender.ReconnectAsync method" Url="html/da753471-30d7-3827-ec49-b0001f8e1447.htm" />
+  <HelpKINode Title="IAsyncSyslogMessageSender.SendAsync method" Url="html/d20096ea-e395-c05c-f3b8-9e4cd43167dd.htm" />
+  <HelpKINode Title="Informational enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="InternalMessages enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="ISyslogMessageSender interface">
+    <HelpKINode Title="ISyslogMessageSender Interface" Url="html/a9b6f1cc-7950-2dce-1555-01abbdc98bfe.htm" />
+    <HelpKINode Title="about ISyslogMessageSender interface" Url="html/a9b6f1cc-7950-2dce-1555-01abbdc98bfe.htm" />
+    <HelpKINode Title="methods" Url="html/b301bca4-261e-3f11-4a2e-8bb2a7be65d2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISyslogMessageSender.Connect method" Url="html/94fc1ccd-9f53-bf7f-385a-8f1e6d28902c.htm" />
+  <HelpKINode Title="ISyslogMessageSender.Disconnect method" Url="html/916ec5c8-7a5b-ad68-50de-649155bf15f7.htm" />
+  <HelpKINode Title="ISyslogMessageSender.Reconnect method" Url="html/a8713b32-cf0b-76e2-932a-7e301f4d429f.htm" />
+  <HelpKINode Title="ISyslogMessageSender.Send method" Url="html/6f2b2b95-d29a-8870-d73a-9d23c00b8679.htm" />
+  <HelpKINode Title="ISyslogMessageSerializer interface">
+    <HelpKINode Title="ISyslogMessageSerializer Interface" Url="html/7f800264-88db-a7bd-f343-f667ad601f6a.htm" />
+    <HelpKINode Title="about ISyslogMessageSerializer interface" Url="html/7f800264-88db-a7bd-f343-f667ad601f6a.htm" />
+    <HelpKINode Title="methods" Url="html/cddd7fff-d005-98c7-99c5-9f7bc4ff9aab.htm" />
+    <HelpKINode Title="properties" Url="html/85b12d64-241a-df06-a9e9-36648f46a0a4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISyslogMessageSerializer.Encoding property" Url="html/10e950fa-ac37-ceac-c8df-ac6cb62ad9b1.htm" />
+  <HelpKINode Title="ISyslogMessageSerializer.Serialize method" Url="html/b6d16599-373c-f97a-da7f-7635a84999f2.htm" />
+  <HelpKINode Title="KernelMessages enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LinePrinterSubsystem enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse0 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse1 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse2 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse3 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse4 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse5 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse6 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LocalUse7 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LogAlert enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="LogAudit enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="MailSystem enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="Message property" Url="html/528a062b-1645-61ac-4ee3-42800680a0c9.htm" />
+  <HelpKINode Title="MessageTransfer enumeration" Url="html/a01b4e06-4365-6f69-e1a7-d4e9d52cdae7.htm" />
+  <HelpKINode Title="MsgId property" Url="html/19182a98-90e3-5aab-4f5f-0f03182cd03e.htm" />
+  <HelpKINode Title="NetworkNewsSubsystem enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="NilValue field" Url="html/63e353d1-fbea-df5f-d0f3-d8ee37ddc96d.htm" />
+  <HelpKINode Title="NonTransparentFraming enumeration member" Url="html/a01b4e06-4365-6f69-e1a7-d4e9d52cdae7.htm" />
+  <HelpKINode Title="Notice enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="NTPSubsystem enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="OctetCounting enumeration member" Url="html/a01b4e06-4365-6f69-e1a7-d4e9d52cdae7.htm" />
+  <HelpKINode Title="Parameters property" Url="html/185c7b41-63c3-9d01-2c2e-70820d6fa78f.htm" />
+  <HelpKINode Title="ProcId property" Url="html/409eda58-14a9-ef61-8de5-b2c1903ad5c2.htm" />
+  <HelpKINode Title="Reconnect method" Url="html/a8713b32-cf0b-76e2-932a-7e301f4d429f.htm" />
+  <HelpKINode Title="ReconnectAsync method">
+    <HelpKINode Title="AsyncSyslogDelegateSender.ReconnectAsync Method " Url="html/c87e0c5a-2a5e-5788-e749-a5b2417327ee.htm" />
+    <HelpKINode Title="AsyncSyslogSenderBase.ReconnectAsync Method " Url="html/e5e7772b-8caa-5951-9c55-3fb3173e0281.htm" />
+    <HelpKINode Title="AsyncSyslogTcpSenderBase.ReconnectAsync Method " Url="html/038ac42b-9ac3-47c5-d08c-c75c8788b52c.htm" />
+    <HelpKINode Title="AsyncSyslogUdpSender.ReconnectAsync Method " Url="html/2f029978-f1ef-24df-ad03-5f1a0d00bd5d.htm" />
+    <HelpKINode Title="IAsyncSyslogMessageSender.ReconnectAsync Method " Url="html/da753471-30d7-3827-ec49-b0001f8e1447.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SdId property" Url="html/ae558080-1810-d65e-0d90-c63c65ee1d56.htm" />
+  <HelpKINode Title="sdNameDisallowedChars field" Url="html/90fe4cca-3cba-4ae6-1791-926b1f4e185a.htm" />
+  <HelpKINode Title="SecurityOrAuthorizationMessages1 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="SecurityOrAuthorizationMessages2 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="Send method" Url="html/6f2b2b95-d29a-8870-d73a-9d23c00b8679.htm" />
+  <HelpKINode Title="SendAsync method">
+    <HelpKINode Title="AsyncSyslogDelegateSender.SendAsync Method " Url="html/ec1cf85f-e43b-b2e2-8ae8-fa39790031f6.htm" />
+    <HelpKINode Title="AsyncSyslogSenderBase.SendAsync Method " Url="html/d106bd78-b43e-24b5-e3b8-6a15e8c958d4.htm" />
+    <HelpKINode Title="AsyncSyslogTcpSenderBase.SendAsync Method " Url="html/c7d95f06-129b-11fb-6e11-236a291eaa7b.htm" />
+    <HelpKINode Title="IAsyncSyslogMessageSender.SendAsync Method " Url="html/d20096ea-e395-c05c-f3b8-9e4cd43167dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Serialize method">
+    <HelpKINode Title="AsyncSyslogSenderBase.Serialize Method " Url="html/a162690b-4d98-ea22-ab13-e2128bc9c935.htm" />
+    <HelpKINode Title="AsyncSyslogTcpSenderBase.Serialize Method " Url="html/5ab6aa28-e24b-3095-8e14-5d8584ebb4be.htm" />
+    <HelpKINode Title="ISyslogMessageSerializer.Serialize Method " Url="html/b6d16599-373c-f97a-da7f-7635a84999f2.htm" />
+    <HelpKINode Title="SyslogLocalMessageSerializer.Serialize Method " Url="html/f4c3adca-6e6c-2dbd-3b50-a15b2dd61c87.htm" />
+    <HelpKINode Title="SyslogMessageSerializerExtensions.Serialize Method " Url="html/e2b9fa7d-73b6-d285-4aa5-638bf1435a1c.htm" />
+    <HelpKINode Title="SyslogRfc3164MessageSerializer.Serialize Method " Url="html/36401966-a0dd-8453-47e4-93a90cf54aef.htm" />
+    <HelpKINode Title="SyslogRfc5424MessageSerializer.Serialize Method " Url="html/4449eb19-f260-2d32-63b9-9e836347eb89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Severity enumeration" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="Severity property" Url="html/cd59616e-4bcb-b3d1-30c2-2455f01a7842.htm" />
+  <HelpKINode Title="StructuredDataElement class">
+    <HelpKINode Title="StructuredDataElement Class" Url="html/b2ab03f8-32fd-5479-53df-1155df4f50ed.htm" />
+    <HelpKINode Title="about StructuredDataElement class" Url="html/b2ab03f8-32fd-5479-53df-1155df4f50ed.htm" />
+    <HelpKINode Title="constructor" Url="html/18e36cc2-1665-c772-b4d1-974c16f544af.htm" />
+    <HelpKINode Title="fields" Url="html/5a06ecf7-7ea5-1354-df20-8d2cc7494505.htm" />
+    <HelpKINode Title="methods" Url="html/41613493-c19c-4c4a-05b2-e9ab13910601.htm" />
+    <HelpKINode Title="properties" Url="html/274909f0-9ac9-c518-e2c8-8d29c80dd0f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StructuredDataElement.DefaultPrivateEnterpriseNumber field" Url="html/319ed611-c635-c3ae-eeac-9cd8b528cbe2.htm" />
+  <HelpKINode Title="StructuredDataElement.Parameters property" Url="html/185c7b41-63c3-9d01-2c2e-70820d6fa78f.htm" />
+  <HelpKINode Title="StructuredDataElement.SdId property" Url="html/ae558080-1810-d65e-0d90-c63c65ee1d56.htm" />
+  <HelpKINode Title="StructuredDataElement.StructuredDataElement constructor" Url="html/18e36cc2-1665-c772-b4d1-974c16f544af.htm" />
+  <HelpKINode Title="StructuredDataElements property" Url="html/1c23b487-aea7-62ab-a3d2-f09f6e3b795f.htm" />
+  <HelpKINode Title="SyslogLocalMessageSerializer class">
+    <HelpKINode Title="SyslogLocalMessageSerializer Class" Url="html/f1ff1696-8951-d784-4a02-6cdfbe9747d9.htm" />
+    <HelpKINode Title="about SyslogLocalMessageSerializer class" Url="html/f1ff1696-8951-d784-4a02-6cdfbe9747d9.htm" />
+    <HelpKINode Title="constructor" Url="html/73a00fe3-4fa2-121a-e43a-661d07e75d47.htm" />
+    <HelpKINode Title="methods" Url="html/6800ccae-8971-1f7f-39fa-06d4243f7482.htm" />
+    <HelpKINode Title="properties" Url="html/ab7b0d82-3295-5a0a-e3ff-808d78c0c751.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogLocalMessageSerializer.Serialize method" Url="html/f4c3adca-6e6c-2dbd-3b50-a15b2dd61c87.htm" />
+  <HelpKINode Title="SyslogLocalMessageSerializer.SyslogLocalMessageSerializer constructor" Url="html/73a00fe3-4fa2-121a-e43a-661d07e75d47.htm" />
+  <HelpKINode Title="SyslogMessage class">
+    <HelpKINode Title="SyslogMessage Class" Url="html/1be73555-29ea-5b48-9fcb-8911937dc22e.htm" />
+    <HelpKINode Title="about SyslogMessage class" Url="html/1be73555-29ea-5b48-9fcb-8911937dc22e.htm" />
+    <HelpKINode Title="constructor" Url="html/6325d6de-b785-f782-2a37-7d2d569bebcf.htm" />
+    <HelpKINode Title="fields" Url="html/03a120d2-21f4-8d0d-fad1-746aab628145.htm" />
+    <HelpKINode Title="methods" Url="html/90b98b06-e8cb-806d-72a1-a1f66c2a5412.htm" />
+    <HelpKINode Title="properties" Url="html/ee8a763c-1b58-64ad-c8e9-86f91733fa8b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogMessage.AppName property" Url="html/e0d20136-a47b-35e2-5c13-18614ab273a6.htm" />
+  <HelpKINode Title="SyslogMessage.DateTimeOffset property" Url="html/37ee2e3a-d678-b68b-e87a-09a052ff6f79.htm" />
+  <HelpKINode Title="SyslogMessage.DefaultFacility field" Url="html/89c3759a-0e75-181c-5778-de2c9e6e135f.htm" />
+  <HelpKINode Title="SyslogMessage.DefaultSeverity field" Url="html/e50132c3-72ec-1263-3c67-00a7b9da40a1.htm" />
+  <HelpKINode Title="SyslogMessage.Facility property" Url="html/f3eaf1a0-65bd-ff32-cc1a-67afc9474539.htm" />
+  <HelpKINode Title="SyslogMessage.HostName property" Url="html/a8cf06d9-a0e9-7b20-521e-07bdfd19e5bf.htm" />
+  <HelpKINode Title="SyslogMessage.Message property" Url="html/528a062b-1645-61ac-4ee3-42800680a0c9.htm" />
+  <HelpKINode Title="SyslogMessage.MsgId property" Url="html/19182a98-90e3-5aab-4f5f-0f03182cd03e.htm" />
+  <HelpKINode Title="SyslogMessage.ProcId property" Url="html/409eda58-14a9-ef61-8de5-b2c1903ad5c2.htm" />
+  <HelpKINode Title="SyslogMessage.Severity property" Url="html/cd59616e-4bcb-b3d1-30c2-2455f01a7842.htm" />
+  <HelpKINode Title="SyslogMessage.StructuredDataElements property" Url="html/1c23b487-aea7-62ab-a3d2-f09f6e3b795f.htm" />
+  <HelpKINode Title="SyslogMessage.SyslogMessage constructor" Url="html/6325d6de-b785-f782-2a37-7d2d569bebcf.htm" />
+  <HelpKINode Title="SyslogMessage.Version property" Url="html/06e8a4e5-06ca-3a03-2da7-623a941a38b1.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase class">
+    <HelpKINode Title="SyslogMessageSerializerBase Class" Url="html/7be0275d-829c-9ebf-9c26-875677e18122.htm" />
+    <HelpKINode Title="about SyslogMessageSerializerBase class" Url="html/7be0275d-829c-9ebf-9c26-875677e18122.htm" />
+    <HelpKINode Title="constructor" Url="html/adeabb3a-d35a-b2a4-5f5f-8ab7e7512cc9.htm" />
+    <HelpKINode Title="methods" Url="html/e28dcc78-516d-a7fc-7399-5a4694862c34.htm" />
+    <HelpKINode Title="properties" Url="html/47f5663b-41ed-cd89-22c5-ca1f21081efd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogMessageSerializerBase(Of T) class">
+    <HelpKINode Title="SyslogMessageSerializerBase(T) Class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm" />
+    <HelpKINode Title="about SyslogMessageSerializerBase(Of T) class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm" />
+    <HelpKINode Title="constructor" Url="html/d6fbf20d-0442-b807-fca7-43cc2bc4cf37.htm" />
+    <HelpKINode Title="methods" Url="html/bb296613-3094-17e3-4816-cff6fac97b24.htm" />
+    <HelpKINode Title="properties" Url="html/3fc74042-8ee4-7059-8dc9-64de51f6bc9c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogMessageSerializerBase(Of T).Default property" Url="html/aa42e552-1ba8-22b8-1b3d-befaf5298eeb.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase(Of T).SyslogMessageSerializerBase constructor" Url="html/d6fbf20d-0442-b807-fca7-43cc2bc4cf37.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase.CalculatePriorityValue method" Url="html/9aa8862d-e50a-555e-76ef-a2ad06656efd.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase.Encoding property" Url="html/35fccec4-1b70-a44f-adf6-9dab4385c7e5.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase.SyslogMessageSerializerBase constructor" Url="html/adeabb3a-d35a-b2a4-5f5f-8ab7e7512cc9.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase&lt;T&gt; class">
+    <HelpKINode Title="SyslogMessageSerializerBase(T) Class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm" />
+    <HelpKINode Title="about SyslogMessageSerializerBase&lt;T&gt; class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm" />
+    <HelpKINode Title="constructor" Url="html/d6fbf20d-0442-b807-fca7-43cc2bc4cf37.htm" />
+    <HelpKINode Title="methods" Url="html/bb296613-3094-17e3-4816-cff6fac97b24.htm" />
+    <HelpKINode Title="properties" Url="html/3fc74042-8ee4-7059-8dc9-64de51f6bc9c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogMessageSerializerBase&lt;T&gt;.Default property" Url="html/aa42e552-1ba8-22b8-1b3d-befaf5298eeb.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase&lt;T&gt;.SyslogMessageSerializerBase constructor" Url="html/d6fbf20d-0442-b807-fca7-43cc2bc4cf37.htm" />
+  <HelpKINode Title="SyslogMessageSerializerExtensions class">
+    <HelpKINode Title="SyslogMessageSerializerExtensions Class" Url="html/07998f7f-7fd1-9ffd-3a14-772a4f40dce6.htm" />
+    <HelpKINode Title="about SyslogMessageSerializerExtensions class" Url="html/07998f7f-7fd1-9ffd-3a14-772a4f40dce6.htm" />
+    <HelpKINode Title="methods" Url="html/05ae2a0c-a844-becc-0d86-447878380dc3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogMessageSerializerExtensions.Serialize method" Url="html/e2b9fa7d-73b6-d285-4aa5-638bf1435a1c.htm" />
+  <HelpKINode Title="SyslogNet.Client namespace" Url="html/122dc3df-6272-2a0c-f9cd-8238821a4b15.htm" />
+  <HelpKINode Title="SyslogNet.Client.Facility enumeration" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization namespace" Url="html/6d4adb8c-b3f4-46f9-4fae-1041a57830d2.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.ISyslogMessageSerializer interface" Url="html/7f800264-88db-a7bd-f343-f667ad601f6a.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.SyslogLocalMessageSerializer class" Url="html/f1ff1696-8951-d784-4a02-6cdfbe9747d9.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.SyslogMessageSerializerBase class" Url="html/7be0275d-829c-9ebf-9c26-875677e18122.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.SyslogMessageSerializerBase(Of T) class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.SyslogMessageSerializerBase&lt;T&gt; class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.SyslogMessageSerializerExtensions class" Url="html/07998f7f-7fd1-9ffd-3a14-772a4f40dce6.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.SyslogRfc3164MessageSerializer class" Url="html/82d46aab-cb01-7390-a9d6-984002886788.htm" />
+  <HelpKINode Title="SyslogNet.Client.Serialization.SyslogRfc5424MessageSerializer class" Url="html/0e57f4ad-646c-148d-c827-96d371848fb2.htm" />
+  <HelpKINode Title="SyslogNet.Client.Severity enumeration" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="SyslogNet.Client.StructuredDataElement class" Url="html/b2ab03f8-32fd-5479-53df-1155df4f50ed.htm" />
+  <HelpKINode Title="SyslogNet.Client.SyslogMessage class" Url="html/1be73555-29ea-5b48-9fcb-8911937dc22e.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport namespace" Url="html/3352f92f-e8dc-44fa-32bb-76aabbdbaddb.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.AsyncSyslogDelegateSender class" Url="html/b972b8ea-1ef2-264e-2f09-21766f9286b9.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.AsyncSyslogSecureTcpSender class" Url="html/32bb9360-ff93-4dd0-b17a-bbfabd97a223.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.AsyncSyslogSenderBase class" Url="html/35567c28-de53-644a-3e0f-c2dd736f28ba.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.AsyncSyslogTcpSender class" Url="html/a237b573-5933-21b6-06a6-e4aee84791e2.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.AsyncSyslogTcpSenderBase class" Url="html/046cada7-7fa2-c297-7bf6-d2228466807e.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.AsyncSyslogUdpSender class" Url="html/a7bdce8b-8c5a-6b35-65df-a4764c5d5451.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.IAsyncSyslogMessageSender interface" Url="html/cd6bab9f-5ffe-bbcb-eb1b-6202115f6862.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.ISyslogMessageSender interface" Url="html/a9b6f1cc-7950-2dce-1555-01abbdc98bfe.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.MessageTransfer enumeration" Url="html/a01b4e06-4365-6f69-e1a7-d4e9d52cdae7.htm" />
+  <HelpKINode Title="SyslogNet.Client.Transport.SyslogTransportException class" Url="html/01edba55-f513-3af1-0102-08edc7a69b4c.htm" />
+  <HelpKINode Title="SyslogRfc3164MessageSerializer class">
+    <HelpKINode Title="SyslogRfc3164MessageSerializer Class" Url="html/82d46aab-cb01-7390-a9d6-984002886788.htm" />
+    <HelpKINode Title="about SyslogRfc3164MessageSerializer class" Url="html/82d46aab-cb01-7390-a9d6-984002886788.htm" />
+    <HelpKINode Title="constructor" Url="html/5052ee1c-a975-2063-3f1b-b1eb8e2ba40f.htm" />
+    <HelpKINode Title="methods" Url="html/03956d56-a44d-0f5d-8002-da84cc2c251a.htm" />
+    <HelpKINode Title="properties" Url="html/5bad5e83-a30e-e6e4-c32b-b118e570f718.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogRfc3164MessageSerializer.Serialize method" Url="html/36401966-a0dd-8453-47e4-93a90cf54aef.htm" />
+  <HelpKINode Title="SyslogRfc3164MessageSerializer.SyslogRfc3164MessageSerializer constructor" Url="html/5052ee1c-a975-2063-3f1b-b1eb8e2ba40f.htm" />
+  <HelpKINode Title="SyslogRfc5424MessageSerializer class">
+    <HelpKINode Title="SyslogRfc5424MessageSerializer Class" Url="html/0e57f4ad-646c-148d-c827-96d371848fb2.htm" />
+    <HelpKINode Title="about SyslogRfc5424MessageSerializer class" Url="html/0e57f4ad-646c-148d-c827-96d371848fb2.htm" />
+    <HelpKINode Title="constructor" Url="html/1951dd79-e56e-9f3c-b79b-0f39f275f36b.htm" />
+    <HelpKINode Title="fields" Url="html/dd256771-0811-2dbe-61f6-ea1289142886.htm" />
+    <HelpKINode Title="methods" Url="html/5f2aeb99-9c5e-b4c4-d1e1-e0b828a910a5.htm" />
+    <HelpKINode Title="properties" Url="html/978f236b-5d4e-f1ef-b6fe-04d8982dcfb2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogRfc5424MessageSerializer.NilValue field" Url="html/63e353d1-fbea-df5f-d0f3-d8ee37ddc96d.htm" />
+  <HelpKINode Title="SyslogRfc5424MessageSerializer.sdNameDisallowedChars field" Url="html/90fe4cca-3cba-4ae6-1791-926b1f4e185a.htm" />
+  <HelpKINode Title="SyslogRfc5424MessageSerializer.Serialize method" Url="html/4449eb19-f260-2d32-63b9-9e836347eb89.htm" />
+  <HelpKINode Title="SyslogRfc5424MessageSerializer.SyslogRfc5424MessageSerializer constructor" Url="html/1951dd79-e56e-9f3c-b79b-0f39f275f36b.htm" />
+  <HelpKINode Title="SyslogTransportException class">
+    <HelpKINode Title="SyslogTransportException Class" Url="html/01edba55-f513-3af1-0102-08edc7a69b4c.htm" />
+    <HelpKINode Title="about SyslogTransportException class" Url="html/01edba55-f513-3af1-0102-08edc7a69b4c.htm" />
+    <HelpKINode Title="constructor" Url="html/5e475ae9-1b09-46d5-8b91-4ca47a43a188.htm" />
+    <HelpKINode Title="methods" Url="html/1301d5c5-6555-818f-18f6-04cc0884311f.htm" />
+    <HelpKINode Title="properties" Url="html/203c4b1d-1905-113d-0b1d-3513bbc1c702.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SyslogTransportException.SyslogTransportException constructor" Url="html/5e475ae9-1b09-46d5-8b91-4ca47a43a188.htm" />
+  <HelpKINode Title="SystemDaemons enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="UserLevelMessages enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="UUCPSubsystem enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
+  <HelpKINode Title="Version property" Url="html/06e8a4e5-06ca-3a03-2da7-623a941a38b1.htm" />
+  <HelpKINode Title="Warning enumeration member" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
+  <HelpKINode Title="Welcome" Url="html/7b08f132-b375-4232-94b9-6df3585c206e.htm" />
+  <HelpKINode Title="WriteAsync method">
+    <HelpKINode Title="AsyncSyslogSenderBase.WriteAsync Method " Url="html/a04e5bcc-e894-a66b-f3ae-d42feb8a1bd7.htm" />
+    <HelpKINode Title="AsyncSyslogTcpSenderBase.WriteAsync Method " Url="html/8014a825-3473-a182-cb57-a79cd9fcf837.htm" />
+  </HelpKINode>
+</HelpKI>
