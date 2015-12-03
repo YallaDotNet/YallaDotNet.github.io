@@ -2,29 +2,29 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome" Url="html/7b08f132-b375-4232-94b9-6df3585c206e.htm" />
-  <HelpTOCNode Id="0baeb035-0bb4-4005-90ed-7ce3d02a2e73" Title="Reference" Url="html/cf6f6a47-cfed-f105-7387-fa8993a9e586.htm">
-    <HelpTOCNode Id="da3519e5-f1a0-4981-9a81-aa89ab516d55" Title="SyslogNet.Client" Url="html/122dc3df-6272-2a0c-f9cd-8238821a4b15.htm">
+  <HelpTOCNode Id="b084c3de-3bcc-4a35-bee3-abc74a6b8017" Title="Reference" Url="html/cf6f6a47-cfed-f105-7387-fa8993a9e586.htm">
+    <HelpTOCNode Id="98bef416-219d-49f5-b745-d7476498fa00" Title="SyslogNet.Client" Url="html/122dc3df-6272-2a0c-f9cd-8238821a4b15.htm">
       <HelpTOCNode Title="Facility Enumeration" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
       <HelpTOCNode Title="Severity Enumeration" Url="html/80613113-2129-e420-e566-d758998542aa.htm" />
-      <HelpTOCNode Id="9c8503a9-0926-4b24-99ac-d0907e4ceb47" Title="StructuredDataElement Class" Url="html/b2ab03f8-32fd-5479-53df-1155df4f50ed.htm">
+      <HelpTOCNode Id="d9e09b86-1d6e-4edd-87d9-c19a679d9a30" Title="StructuredDataElement Class" Url="html/b2ab03f8-32fd-5479-53df-1155df4f50ed.htm">
         <HelpTOCNode Title="StructuredDataElement Constructor " Url="html/18e36cc2-1665-c772-b4d1-974c16f544af.htm" />
-        <HelpTOCNode Id="e85d881c-a7ea-4f23-8ca9-10eab20103f4" Title="StructuredDataElement Properties" Url="html/274909f0-9ac9-c518-e2c8-8d29c80dd0f9.htm">
+        <HelpTOCNode Id="1a608ef0-3254-48c3-b549-b155fa6c32a9" Title="StructuredDataElement Properties" Url="html/274909f0-9ac9-c518-e2c8-8d29c80dd0f9.htm">
           <HelpTOCNode Title="Parameters Property " Url="html/185c7b41-63c3-9d01-2c2e-70820d6fa78f.htm" />
           <HelpTOCNode Title="SdId Property " Url="html/ae558080-1810-d65e-0d90-c63c65ee1d56.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="StructuredDataElement Methods" Url="html/41613493-c19c-4c4a-05b2-e9ab13910601.htm" />
-        <HelpTOCNode Id="ac7e0ce6-0019-4c13-a6ad-44acd21b416f" Title="StructuredDataElement Fields" Url="html/5a06ecf7-7ea5-1354-df20-8d2cc7494505.htm">
+        <HelpTOCNode Id="5487b255-654f-4394-8f9a-3aa4e5e54d64" Title="StructuredDataElement Fields" Url="html/5a06ecf7-7ea5-1354-df20-8d2cc7494505.htm">
           <HelpTOCNode Title="DefaultPrivateEnterpriseNumber Field" Url="html/319ed611-c635-c3ae-eeac-9cd8b528cbe2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f4ae3374-e938-4cb2-841c-8f8200900329" Title="SyslogMessage Class" Url="html/1be73555-29ea-5b48-9fcb-8911937dc22e.htm">
-        <HelpTOCNode Id="284d2fe6-5abb-40fd-b5fe-bd141b36bb1f" Title="SyslogMessage Constructor " Url="html/6325d6de-b785-f782-2a37-7d2d569bebcf.htm">
+      <HelpTOCNode Id="668daab6-7c5d-4373-8b89-293af88f52ce" Title="SyslogMessage Class" Url="html/1be73555-29ea-5b48-9fcb-8911937dc22e.htm">
+        <HelpTOCNode Id="d451b134-13c1-4a68-b110-d90b1522b19a" Title="SyslogMessage Constructor " Url="html/6325d6de-b785-f782-2a37-7d2d569bebcf.htm">
           <HelpTOCNode Title="SyslogMessage Constructor (Severity, String, String)" Url="html/6604802d-5570-b4ea-61cb-aecb3afdd0ae.htm" />
           <HelpTOCNode Title="SyslogMessage Constructor (Facility, Severity, String, String)" Url="html/7fb0f21a-cfaf-d777-049b-d580eaea795d.htm" />
           <HelpTOCNode Title="SyslogMessage Constructor (Nullable(DateTimeOffset), Facility, Severity, String, String, String)" Url="html/cde4b9f7-d7ca-bed4-b450-2aef4f11cb71.htm" />
           <HelpTOCNode Title="SyslogMessage Constructor (Nullable(DateTimeOffset), Facility, Severity, String, String, String, String, String, StructuredDataElement[])" Url="html/390d32cf-6082-3f91-3c01-db4c1ee21d24.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c8adee14-14cc-4f2e-9772-7c5342c86113" Title="SyslogMessage Properties" Url="html/ee8a763c-1b58-64ad-c8e9-86f91733fa8b.htm">
+        <HelpTOCNode Id="a8fa81ae-8d44-40a2-b9dd-0c04c8b82fd3" Title="SyslogMessage Properties" Url="html/ee8a763c-1b58-64ad-c8e9-86f91733fa8b.htm">
           <HelpTOCNode Title="AppName Property " Url="html/e0d20136-a47b-35e2-5c13-18614ab273a6.htm" />
           <HelpTOCNode Title="DateTimeOffset Property " Url="html/37ee2e3a-d678-b68b-e87a-09a052ff6f79.htm" />
           <HelpTOCNode Title="Facility Property " Url="html/f3eaf1a0-65bd-ff32-cc1a-67afc9474539.htm" />
@@ -37,86 +37,89 @@
           <HelpTOCNode Title="Version Property " Url="html/06e8a4e5-06ca-3a03-2da7-623a941a38b1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SyslogMessage Methods" Url="html/90b98b06-e8cb-806d-72a1-a1f66c2a5412.htm" />
-        <HelpTOCNode Id="e14f1b8a-e82e-4bf3-b811-a5cb4b210a33" Title="SyslogMessage Fields" Url="html/03a120d2-21f4-8d0d-fad1-746aab628145.htm">
+        <HelpTOCNode Id="a572e5cd-91d6-4bd9-bffe-7e56972933e9" Title="SyslogMessage Fields" Url="html/03a120d2-21f4-8d0d-fad1-746aab628145.htm">
           <HelpTOCNode Title="DefaultFacility Field" Url="html/89c3759a-0e75-181c-5778-de2c9e6e135f.htm" />
           <HelpTOCNode Title="DefaultSeverity Field" Url="html/e50132c3-72ec-1263-3c67-00a7b9da40a1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="31c852e5-c91a-47b4-9846-aae97b79c0eb" Title="SyslogNet.Client.Serialization" Url="html/6d4adb8c-b3f4-46f9-4fae-1041a57830d2.htm">
-      <HelpTOCNode Id="4d7ae041-735f-4666-9649-b9b15a8c786c" Title="ISyslogMessageSerializer Interface" Url="html/7f800264-88db-a7bd-f343-f667ad601f6a.htm">
-        <HelpTOCNode Id="3d89d2fc-ac1d-4a21-974b-088f2bc9ded4" Title="ISyslogMessageSerializer Properties" Url="html/85b12d64-241a-df06-a9e9-36648f46a0a4.htm">
+    <HelpTOCNode Id="d705fb6c-9f6e-4520-96a2-86ea1fc929ab" Title="SyslogNet.Client.Serialization" Url="html/6d4adb8c-b3f4-46f9-4fae-1041a57830d2.htm">
+      <HelpTOCNode Id="84c5db35-753d-42e7-9fd3-3879dd0dd76e" Title="ISyslogMessageSerializer Interface" Url="html/7f800264-88db-a7bd-f343-f667ad601f6a.htm">
+        <HelpTOCNode Id="1a6790ad-aa95-4ec4-a358-5ddee6ddb3eb" Title="ISyslogMessageSerializer Properties" Url="html/85b12d64-241a-df06-a9e9-36648f46a0a4.htm">
           <HelpTOCNode Title="Encoding Property " Url="html/10e950fa-ac37-ceac-c8df-ac6cb62ad9b1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e596a5fc-c35c-42da-8290-255f278a4301" Title="ISyslogMessageSerializer Methods" Url="html/cddd7fff-d005-98c7-99c5-9f7bc4ff9aab.htm">
+        <HelpTOCNode Id="e7de89ef-6357-44f8-b388-81f1a9112af7" Title="ISyslogMessageSerializer Methods" Url="html/cddd7fff-d005-98c7-99c5-9f7bc4ff9aab.htm">
           <HelpTOCNode Title="Serialize Method " Url="html/b6d16599-373c-f97a-da7f-7635a84999f2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b27181e3-f7f7-4d86-95dd-2e0f9a11e33d" Title="SyslogLocalMessageSerializer Class" Url="html/f1ff1696-8951-d784-4a02-6cdfbe9747d9.htm">
-        <HelpTOCNode Id="4b6f5dbc-941c-4aa1-8037-413fafe6b3cd" Title="SyslogLocalMessageSerializer Constructor " Url="html/73a00fe3-4fa2-121a-e43a-661d07e75d47.htm">
+      <HelpTOCNode Id="335abb3d-a543-44bc-99e8-5a9153a82dac" Title="SyslogLocalMessageSerializer Class" Url="html/f1ff1696-8951-d784-4a02-6cdfbe9747d9.htm">
+        <HelpTOCNode Id="63a50496-9f9c-4cd5-9e53-e54ce2f3de7a" Title="SyslogLocalMessageSerializer Constructor " Url="html/73a00fe3-4fa2-121a-e43a-661d07e75d47.htm">
           <HelpTOCNode Title="SyslogLocalMessageSerializer Constructor " Url="html/12951c4d-b602-c449-33d2-89ddfec96d9a.htm" />
           <HelpTOCNode Title="SyslogLocalMessageSerializer Constructor (Boolean)" Url="html/77398e68-a636-5710-4637-692a39b2b738.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SyslogLocalMessageSerializer Properties" Url="html/ab7b0d82-3295-5a0a-e3ff-808d78c0c751.htm" />
-        <HelpTOCNode Id="bd4a2709-9adb-4780-977c-1a64b505431e" Title="SyslogLocalMessageSerializer Methods" Url="html/6800ccae-8971-1f7f-39fa-06d4243f7482.htm">
+        <HelpTOCNode Id="a73e6067-9c39-462d-8d4a-c7244de7fa89" Title="SyslogLocalMessageSerializer Methods" Url="html/6800ccae-8971-1f7f-39fa-06d4243f7482.htm">
           <HelpTOCNode Title="Serialize Method " Url="html/f4c3adca-6e6c-2dbd-3b50-a15b2dd61c87.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4bbc5218-1f95-4570-add9-bb008237d9ee" Title="SyslogMessageSerializerBase Class" Url="html/7be0275d-829c-9ebf-9c26-875677e18122.htm">
+      <HelpTOCNode Id="3ca7c1be-1914-4da3-aeb4-e7ccc9efac56" Title="SyslogMessageSerializerBase Class" Url="html/7be0275d-829c-9ebf-9c26-875677e18122.htm">
         <HelpTOCNode Title="SyslogMessageSerializerBase Constructor " Url="html/adeabb3a-d35a-b2a4-5f5f-8ab7e7512cc9.htm" />
-        <HelpTOCNode Id="63b06f28-9368-49eb-a132-68f16c49293b" Title="SyslogMessageSerializerBase Properties" Url="html/47f5663b-41ed-cd89-22c5-ca1f21081efd.htm">
+        <HelpTOCNode Id="0633af3d-e8cd-4465-b4b4-0111f49707a9" Title="SyslogMessageSerializerBase Properties" Url="html/47f5663b-41ed-cd89-22c5-ca1f21081efd.htm">
           <HelpTOCNode Title="Encoding Property " Url="html/35fccec4-1b70-a44f-adf6-9dab4385c7e5.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3f45f6e2-861a-4fb4-b265-d1373259fc25" Title="SyslogMessageSerializerBase Methods" Url="html/e28dcc78-516d-a7fc-7399-5a4694862c34.htm">
-          <HelpTOCNode Title="CalculatePriorityValue Method " Url="html/9aa8862d-e50a-555e-76ef-a2ad06656efd.htm" />
+        <HelpTOCNode Id="728ca35b-c2f0-4bcf-af6a-e7309c8429f9" Title="SyslogMessageSerializerBase Methods" Url="html/e28dcc78-516d-a7fc-7399-5a4694862c34.htm">
+          <HelpTOCNode Id="caededf5-f9a9-430a-b23c-d9e0d3fc0a13" Title="CalculatePriorityValue Method " Url="html/0162c222-87e7-f896-8439-dccb8ae73568.htm">
+            <HelpTOCNode Title="CalculatePriorityValue Method (SyslogMessage)" Url="html/d9e2ee9b-9fa9-b0fa-37db-e18b05b23d9b.htm" />
+            <HelpTOCNode Title="CalculatePriorityValue Method (Facility, Severity)" Url="html/9aa8862d-e50a-555e-76ef-a2ad06656efd.htm" />
+          </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="152cab4b-9a2d-45ad-b0c6-be4de8d71bd5" Title="SyslogMessageSerializerBase(T) Class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm">
+      <HelpTOCNode Id="121f67ea-98b9-48dd-a2f1-834273c5fa05" Title="SyslogMessageSerializerBase(T) Class" Url="html/75ddb688-26a0-a46a-fcd0-2fafec43ce08.htm">
         <HelpTOCNode Title="SyslogMessageSerializerBase(T) Constructor " Url="html/d6fbf20d-0442-b807-fca7-43cc2bc4cf37.htm" />
-        <HelpTOCNode Id="42ae7347-55a9-447d-9a45-85b566b7db26" Title="SyslogMessageSerializerBase(T) Properties" Url="html/3fc74042-8ee4-7059-8dc9-64de51f6bc9c.htm">
+        <HelpTOCNode Id="d9e523c5-87fd-4445-9844-35377ac05f9f" Title="SyslogMessageSerializerBase(T) Properties" Url="html/3fc74042-8ee4-7059-8dc9-64de51f6bc9c.htm">
           <HelpTOCNode Title="Default Property " Url="html/aa42e552-1ba8-22b8-1b3d-befaf5298eeb.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SyslogMessageSerializerBase(T) Methods" Url="html/bb296613-3094-17e3-4816-cff6fac97b24.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="32ed1314-ddeb-4576-9787-c30bf544ca2c" Title="SyslogMessageSerializerExtensions Class" Url="html/07998f7f-7fd1-9ffd-3a14-772a4f40dce6.htm">
-        <HelpTOCNode Id="b70c8891-3550-4ad1-b1f6-91f5994daee7" Title="SyslogMessageSerializerExtensions Methods" Url="html/05ae2a0c-a844-becc-0d86-447878380dc3.htm">
+      <HelpTOCNode Id="8d7816c6-6780-439a-80d3-b0fbd37dd589" Title="SyslogMessageSerializerExtensions Class" Url="html/07998f7f-7fd1-9ffd-3a14-772a4f40dce6.htm">
+        <HelpTOCNode Id="9ca71f35-9328-478e-beab-2056b250122e" Title="SyslogMessageSerializerExtensions Methods" Url="html/05ae2a0c-a844-becc-0d86-447878380dc3.htm">
           <HelpTOCNode Title="Serialize Method " Url="html/e2b9fa7d-73b6-d285-4aa5-638bf1435a1c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2c4f2bee-cd9b-4c3e-8410-2af5f3a3228e" Title="SyslogRfc3164MessageSerializer Class" Url="html/82d46aab-cb01-7390-a9d6-984002886788.htm">
-        <HelpTOCNode Id="4a047f17-8bb9-4063-88f0-4054c756af03" Title="SyslogRfc3164MessageSerializer Constructor " Url="html/5052ee1c-a975-2063-3f1b-b1eb8e2ba40f.htm">
+      <HelpTOCNode Id="85887406-9715-4169-b8f9-c99ec0a115b9" Title="SyslogRfc3164MessageSerializer Class" Url="html/82d46aab-cb01-7390-a9d6-984002886788.htm">
+        <HelpTOCNode Id="816f8b09-9828-4980-b88a-d1aaad521997" Title="SyslogRfc3164MessageSerializer Constructor " Url="html/5052ee1c-a975-2063-3f1b-b1eb8e2ba40f.htm">
           <HelpTOCNode Title="SyslogRfc3164MessageSerializer Constructor " Url="html/fc9a9f03-1f00-4f4f-4437-30171bc11cc8.htm" />
           <HelpTOCNode Title="SyslogRfc3164MessageSerializer Constructor (Encoding)" Url="html/72a70faa-88ae-bcbd-be0e-edbfe7a20ef1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SyslogRfc3164MessageSerializer Properties" Url="html/5bad5e83-a30e-e6e4-c32b-b118e570f718.htm" />
-        <HelpTOCNode Id="e6fc8d05-c070-419c-8bcc-9a24285ecdc4" Title="SyslogRfc3164MessageSerializer Methods" Url="html/03956d56-a44d-0f5d-8002-da84cc2c251a.htm">
+        <HelpTOCNode Id="c199efb5-fabd-478f-a15c-a995f1ea91a2" Title="SyslogRfc3164MessageSerializer Methods" Url="html/03956d56-a44d-0f5d-8002-da84cc2c251a.htm">
           <HelpTOCNode Title="Serialize Method " Url="html/36401966-a0dd-8453-47e4-93a90cf54aef.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6d881470-7a6f-46ac-9b16-f7f6b3726667" Title="SyslogRfc5424MessageSerializer Class" Url="html/0e57f4ad-646c-148d-c827-96d371848fb2.htm">
-        <HelpTOCNode Id="9940a613-cc0f-411a-809a-0d08ef565384" Title="SyslogRfc5424MessageSerializer Constructor " Url="html/1951dd79-e56e-9f3c-b79b-0f39f275f36b.htm">
+      <HelpTOCNode Id="f422eead-8b39-4801-b737-0329263e3bd9" Title="SyslogRfc5424MessageSerializer Class" Url="html/0e57f4ad-646c-148d-c827-96d371848fb2.htm">
+        <HelpTOCNode Id="7671bfed-e7bd-411b-9946-e48edab3bced" Title="SyslogRfc5424MessageSerializer Constructor " Url="html/1951dd79-e56e-9f3c-b79b-0f39f275f36b.htm">
           <HelpTOCNode Title="SyslogRfc5424MessageSerializer Constructor " Url="html/979f55aa-5348-5d66-ea12-c5c74ea4665f.htm" />
           <HelpTOCNode Title="SyslogRfc5424MessageSerializer Constructor (Encoding)" Url="html/923a7bca-3014-ee42-f699-24029f782da0.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SyslogRfc5424MessageSerializer Properties" Url="html/978f236b-5d4e-f1ef-b6fe-04d8982dcfb2.htm" />
-        <HelpTOCNode Id="14bf0d99-ff19-4bac-90d6-9a3789ae5e77" Title="SyslogRfc5424MessageSerializer Methods" Url="html/5f2aeb99-9c5e-b4c4-d1e1-e0b828a910a5.htm">
+        <HelpTOCNode Id="2224b879-b4a7-45f6-9f04-17f3113b046e" Title="SyslogRfc5424MessageSerializer Methods" Url="html/5f2aeb99-9c5e-b4c4-d1e1-e0b828a910a5.htm">
           <HelpTOCNode Title="Serialize Method " Url="html/4449eb19-f260-2d32-63b9-9e836347eb89.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e1f58b93-2867-4975-ae17-8cd945320e7f" Title="SyslogRfc5424MessageSerializer Fields" Url="html/dd256771-0811-2dbe-61f6-ea1289142886.htm">
+        <HelpTOCNode Id="b7a31756-4291-4286-8e1d-2492e776abca" Title="SyslogRfc5424MessageSerializer Fields" Url="html/dd256771-0811-2dbe-61f6-ea1289142886.htm">
           <HelpTOCNode Title="NilValue Field" Url="html/63e353d1-fbea-df5f-d0f3-d8ee37ddc96d.htm" />
           <HelpTOCNode Title="sdNameDisallowedChars Field" Url="html/90fe4cca-3cba-4ae6-1791-926b1f4e185a.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="43a43859-351b-4b79-a0e5-4aa556727bce" Title="SyslogNet.Client.Transport" Url="html/3352f92f-e8dc-44fa-32bb-76aabbdbaddb.htm">
-      <HelpTOCNode Id="f26b1a14-55f4-43e8-9410-d20a4a14d026" Title="AsyncSyslogDelegateSender Class" Url="html/b972b8ea-1ef2-264e-2f09-21766f9286b9.htm">
+    <HelpTOCNode Id="a9fb1a46-3286-4cd6-8fb8-2fee5dc607f4" Title="SyslogNet.Client.Transport" Url="html/3352f92f-e8dc-44fa-32bb-76aabbdbaddb.htm">
+      <HelpTOCNode Id="dcf09cef-8c9e-4c14-8b86-9b149f905ca8" Title="AsyncSyslogDelegateSender Class" Url="html/b972b8ea-1ef2-264e-2f09-21766f9286b9.htm">
         <HelpTOCNode Title="AsyncSyslogDelegateSender Constructor " Url="html/fc4623d9-a64e-b399-86a4-6acd21c67ccf.htm" />
-        <HelpTOCNode Id="a81faa28-810d-41b4-bbb4-cff24b30a56a" Title="AsyncSyslogDelegateSender Methods" Url="html/3356d88f-2267-431c-fa69-8a11e6a51944.htm">
+        <HelpTOCNode Id="b898d20a-772d-4a97-aed7-4c9d3724c09c" Title="AsyncSyslogDelegateSender Methods" Url="html/3356d88f-2267-431c-fa69-8a11e6a51944.htm">
           <HelpTOCNode Title="ConnectAsync Method " Url="html/7723b540-b23b-c447-8ec5-b32a63992c0a.htm" />
           <HelpTOCNode Title="DisconnectAsync Method " Url="html/058b5340-fa02-7eab-a4bd-45e3144044bf.htm" />
           <HelpTOCNode Title="Dispose Method " Url="html/24f6e38e-222a-3164-57c2-64d3b7045755.htm" />
           <HelpTOCNode Title="ReconnectAsync Method " Url="html/c87e0c5a-2a5e-5788-e749-a5b2417327ee.htm" />
-          <HelpTOCNode Id="e949374c-20c3-4062-8de9-1900c0a07737" Title="SendAsync Method " Url="html/ec1cf85f-e43b-b2e2-8ae8-fa39790031f6.htm">
+          <HelpTOCNode Id="fa49b95b-b00c-4d91-9e4c-b6c8f77b13c0" Title="SendAsync Method " Url="html/ec1cf85f-e43b-b2e2-8ae8-fa39790031f6.htm">
             <HelpTOCNode Title="SendAsync Method (SyslogMessage, ISyslogMessageSerializer)" Url="html/175cacf5-f289-e3a6-7fb9-6174c249b21e.htm" />
             <HelpTOCNode Title="SendAsync Method (IEnumerable(SyslogMessage), ISyslogMessageSerializer)" Url="html/6eda407d-f012-eb53-2861-402cb4e8e356.htm" />
             <HelpTOCNode Title="SendAsync Method (SyslogMessage, ISyslogMessageSerializer, CancellationToken)" Url="html/c05d70c6-73a2-d2cb-e710-98a05f4d85ae.htm" />
@@ -124,21 +127,21 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4299fc03-fbdc-4d93-9236-7b52eeab5195" Title="AsyncSyslogSecureTcpSender Class" Url="html/32bb9360-ff93-4dd0-b17a-bbfabd97a223.htm">
+      <HelpTOCNode Id="30f054db-400b-4021-99f4-d6fe33b45f46" Title="AsyncSyslogSecureTcpSender Class" Url="html/32bb9360-ff93-4dd0-b17a-bbfabd97a223.htm">
         <HelpTOCNode Title="AsyncSyslogSecureTcpSender Constructor " Url="html/e0d1a45d-6315-8d67-b7c8-2848fe04390c.htm" />
         <HelpTOCNode Title="AsyncSyslogSecureTcpSender Methods" Url="html/d9e158bd-4ca6-bb04-ca67-23737c9af69f.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1a7a7482-9765-4759-80df-f2da7d324a21" Title="AsyncSyslogSenderBase Class" Url="html/35567c28-de53-644a-3e0f-c2dd736f28ba.htm">
+      <HelpTOCNode Id="1f453d8a-6a2d-4e0a-a20b-7fc3651a509e" Title="AsyncSyslogSenderBase Class" Url="html/35567c28-de53-644a-3e0f-c2dd736f28ba.htm">
         <HelpTOCNode Title="AsyncSyslogSenderBase Constructor " Url="html/6f2f71f5-8a13-911f-deeb-588a1fa7da15.htm" />
-        <HelpTOCNode Id="59996391-1e1a-437c-95ce-ca790a974c97" Title="AsyncSyslogSenderBase Methods" Url="html/f6ea8556-f336-8094-6772-06c709dc4456.htm">
-          <HelpTOCNode Id="7c231e12-bb53-4704-a65f-56d34cccaaec" Title="ConnectAsync Method " Url="html/0bdf4d46-ff20-2229-d931-a92c9849276e.htm">
+        <HelpTOCNode Id="cd50960d-f65f-4ee6-b9ff-798de7947193" Title="AsyncSyslogSenderBase Methods" Url="html/f6ea8556-f336-8094-6772-06c709dc4456.htm">
+          <HelpTOCNode Id="04af4068-a1eb-4cc1-a3a7-8869c8d82f01" Title="ConnectAsync Method " Url="html/0bdf4d46-ff20-2229-d931-a92c9849276e.htm">
             <HelpTOCNode Title="ConnectAsync Method " Url="html/256278d8-509d-b86f-6f29-8b1933c02458.htm" />
             <HelpTOCNode Title="ConnectAsync Method (String, Int32)" Url="html/79f88298-ef16-13d6-3b69-2d8c8bba7ee5.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="DisconnectAsync Method " Url="html/ef601d35-1a46-f5ef-e96e-4db9faeb0c88.htm" />
           <HelpTOCNode Title="Dispose Method " Url="html/37b2faf8-173a-9874-fd24-3311719a5def.htm" />
           <HelpTOCNode Title="ReconnectAsync Method " Url="html/e5e7772b-8caa-5951-9c55-3fb3173e0281.htm" />
-          <HelpTOCNode Id="b1de7fbe-8c79-43a5-a4b9-a95b32340264" Title="SendAsync Method " Url="html/d106bd78-b43e-24b5-e3b8-6a15e8c958d4.htm">
+          <HelpTOCNode Id="fa04fe9b-0666-45ae-a69e-abea9942701d" Title="SendAsync Method " Url="html/d106bd78-b43e-24b5-e3b8-6a15e8c958d4.htm">
             <HelpTOCNode Title="SendAsync Method (SyslogMessage, ISyslogMessageSerializer)" Url="html/e08546f3-8c01-c1c6-9d50-9e3fab6de4b1.htm" />
             <HelpTOCNode Title="SendAsync Method (IEnumerable(SyslogMessage), ISyslogMessageSerializer)" Url="html/fab316cb-d9d2-f08f-cd74-fa50fee51650.htm" />
             <HelpTOCNode Title="SendAsync Method (SyslogMessage, ISyslogMessageSerializer, CancellationToken)" Url="html/c004ec20-f820-0244-2bdf-3e2e09422487.htm" />
@@ -148,20 +151,20 @@
           <HelpTOCNode Title="WriteAsync Method " Url="html/a04e5bcc-e894-a66b-f3ae-d42feb8a1bd7.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0b5672f8-4fb5-4b56-8f74-7c1d5a67ad02" Title="AsyncSyslogTcpSender Class" Url="html/a237b573-5933-21b6-06a6-e4aee84791e2.htm">
+      <HelpTOCNode Id="2ee182d9-7c01-4913-b1fd-f764d38ccf47" Title="AsyncSyslogTcpSender Class" Url="html/a237b573-5933-21b6-06a6-e4aee84791e2.htm">
         <HelpTOCNode Title="AsyncSyslogTcpSender Constructor " Url="html/42862834-ecca-e629-2fe8-781dd4fa0e43.htm" />
         <HelpTOCNode Title="AsyncSyslogTcpSender Methods" Url="html/1579d862-5a55-8162-6a90-4f35bdc1169e.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d5ac5662-f89a-4ca6-8dd5-616e887dff06" Title="AsyncSyslogTcpSenderBase Class" Url="html/046cada7-7fa2-c297-7bf6-d2228466807e.htm">
+      <HelpTOCNode Id="aacc09c4-413b-4dc0-9f17-cd1227ee43e9" Title="AsyncSyslogTcpSenderBase Class" Url="html/046cada7-7fa2-c297-7bf6-d2228466807e.htm">
         <HelpTOCNode Title="AsyncSyslogTcpSenderBase Constructor " Url="html/f40f252b-ab0f-e412-740c-e6895e755787.htm" />
-        <HelpTOCNode Id="fb3677c5-d97c-4d87-89db-f6432fd96679" Title="AsyncSyslogTcpSenderBase Methods" Url="html/1e581bb0-8b59-9298-28db-76e94f9f97b3.htm">
-          <HelpTOCNode Id="180fe1a3-487d-47ac-9196-9c3d257de581" Title="ConnectAsync Method " Url="html/6ba7b6a1-bfa2-8bb0-216b-8ea6b31f189c.htm">
+        <HelpTOCNode Id="9c6641e5-e972-4c3e-8e6c-814956db848b" Title="AsyncSyslogTcpSenderBase Methods" Url="html/1e581bb0-8b59-9298-28db-76e94f9f97b3.htm">
+          <HelpTOCNode Id="852e80cb-b458-40cd-b0d5-88939ee5fa45" Title="ConnectAsync Method " Url="html/6ba7b6a1-bfa2-8bb0-216b-8ea6b31f189c.htm">
             <HelpTOCNode Title="ConnectAsync Method (String, Int32)" Url="html/4a016052-b2de-be3c-a709-4c9e300619f8.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="DisconnectAsync Method " Url="html/6a1273a6-ef8b-0297-be89-65c25929c5f7.htm" />
           <HelpTOCNode Title="Dispose Method " Url="html/732e4308-c866-e299-54c0-84aecfe186d5.htm" />
           <HelpTOCNode Title="ReconnectAsync Method " Url="html/038ac42b-9ac3-47c5-d08c-c75c8788b52c.htm" />
-          <HelpTOCNode Id="7b5c0952-bbbe-4b9b-b406-b49a3330f0de" Title="SendAsync Method " Url="html/c7d95f06-129b-11fb-6e11-236a291eaa7b.htm">
+          <HelpTOCNode Id="a58d6f4b-7af2-4b23-951a-941fe1fbc238" Title="SendAsync Method " Url="html/c7d95f06-129b-11fb-6e11-236a291eaa7b.htm">
             <HelpTOCNode Title="SendAsync Method (SyslogMessage, ISyslogMessageSerializer, CancellationToken)" Url="html/8120888d-a94a-bb93-43cc-d575b0d29d27.htm" />
             <HelpTOCNode Title="SendAsync Method (IEnumerable(SyslogMessage), ISyslogMessageSerializer, CancellationToken)" Url="html/97e57112-7199-9467-4ddb-1c7d3187004a.htm" />
           </HelpTOCNode>
@@ -169,20 +172,20 @@
           <HelpTOCNode Title="WriteAsync Method " Url="html/8014a825-3473-a182-cb57-a79cd9fcf837.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="23d32861-9e20-4cc0-9d03-aeda62025966" Title="AsyncSyslogUdpSender Class" Url="html/a7bdce8b-8c5a-6b35-65df-a4764c5d5451.htm">
+      <HelpTOCNode Id="756f98da-1d4f-479a-aa29-3ebc430bfdb2" Title="AsyncSyslogUdpSender Class" Url="html/a7bdce8b-8c5a-6b35-65df-a4764c5d5451.htm">
         <HelpTOCNode Title="AsyncSyslogUdpSender Constructor " Url="html/03fae67d-df9d-7758-7488-060c1d5824b1.htm" />
-        <HelpTOCNode Id="1dd4fc04-1027-43ac-9b6e-8a11173940db" Title="AsyncSyslogUdpSender Methods" Url="html/a94af714-2c7e-e8fa-f5ad-cfa5e933a93f.htm">
+        <HelpTOCNode Id="83e27ce2-7b60-45dc-b1f9-e5547bd7dda7" Title="AsyncSyslogUdpSender Methods" Url="html/a94af714-2c7e-e8fa-f5ad-cfa5e933a93f.htm">
           <HelpTOCNode Title="DisconnectAsync Method " Url="html/1825663a-f602-45bf-71c9-822e18cb921f.htm" />
           <HelpTOCNode Title="Dispose Method " Url="html/d87b7a88-263d-634d-ca98-d5e6bfd11991.htm" />
           <HelpTOCNode Title="ReconnectAsync Method " Url="html/2f029978-f1ef-24df-ad03-5f1a0d00bd5d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="621ca6cd-f199-44cc-b2ae-3567a3a960e0" Title="IAsyncSyslogMessageSender Interface" Url="html/cd6bab9f-5ffe-bbcb-eb1b-6202115f6862.htm">
-        <HelpTOCNode Id="c230a79f-67a9-41c0-8718-056e56b32b27" Title="IAsyncSyslogMessageSender Methods" Url="html/94abc51d-e96c-c7bf-2856-b9405ef21564.htm">
+      <HelpTOCNode Id="cc205812-3dd5-4b55-b102-4cf0c60ec333" Title="IAsyncSyslogMessageSender Interface" Url="html/cd6bab9f-5ffe-bbcb-eb1b-6202115f6862.htm">
+        <HelpTOCNode Id="19048feb-bf60-46cf-bc9b-f9ad12ef200a" Title="IAsyncSyslogMessageSender Methods" Url="html/94abc51d-e96c-c7bf-2856-b9405ef21564.htm">
           <HelpTOCNode Title="ConnectAsync Method " Url="html/8724b3bb-b0e3-283e-ce6d-1a57140d1d4f.htm" />
           <HelpTOCNode Title="DisconnectAsync Method " Url="html/f1c19150-84ad-110e-0eef-f2cfad3a1647.htm" />
           <HelpTOCNode Title="ReconnectAsync Method " Url="html/da753471-30d7-3827-ec49-b0001f8e1447.htm" />
-          <HelpTOCNode Id="a3b61dd4-12f8-499d-aad0-af95b11aa7a2" Title="SendAsync Method " Url="html/d20096ea-e395-c05c-f3b8-9e4cd43167dd.htm">
+          <HelpTOCNode Id="61d3b36f-3c09-478b-a724-19e28f34afda" Title="SendAsync Method " Url="html/d20096ea-e395-c05c-f3b8-9e4cd43167dd.htm">
             <HelpTOCNode Title="SendAsync Method (SyslogMessage, ISyslogMessageSerializer)" Url="html/dda96642-9b24-0f9a-82f6-3e6ab9bd13b3.htm" />
             <HelpTOCNode Title="SendAsync Method (IEnumerable(SyslogMessage), ISyslogMessageSerializer)" Url="html/60b481da-517a-d38f-16a9-9645ecfb7d08.htm" />
             <HelpTOCNode Title="SendAsync Method (SyslogMessage, ISyslogMessageSerializer, CancellationToken)" Url="html/20248275-87c8-672e-e554-871fb9e1267e.htm" />
@@ -190,19 +193,19 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6d6862ea-9160-4ef3-9ccd-4567dc09dce2" Title="ISyslogMessageSender Interface" Url="html/a9b6f1cc-7950-2dce-1555-01abbdc98bfe.htm">
-        <HelpTOCNode Id="f2231a15-677f-4215-83bc-a15654fa8168" Title="ISyslogMessageSender Methods" Url="html/b301bca4-261e-3f11-4a2e-8bb2a7be65d2.htm">
+      <HelpTOCNode Id="860aa199-a542-4768-b126-647ed590ffdd" Title="ISyslogMessageSender Interface" Url="html/a9b6f1cc-7950-2dce-1555-01abbdc98bfe.htm">
+        <HelpTOCNode Id="c6721897-b663-46ee-946e-96c6ded6baac" Title="ISyslogMessageSender Methods" Url="html/b301bca4-261e-3f11-4a2e-8bb2a7be65d2.htm">
           <HelpTOCNode Title="Connect Method " Url="html/94fc1ccd-9f53-bf7f-385a-8f1e6d28902c.htm" />
           <HelpTOCNode Title="Disconnect Method " Url="html/916ec5c8-7a5b-ad68-50de-649155bf15f7.htm" />
           <HelpTOCNode Title="Reconnect Method " Url="html/a8713b32-cf0b-76e2-932a-7e301f4d429f.htm" />
-          <HelpTOCNode Id="377a5843-b320-4397-8ca9-a4b38181c44d" Title="Send Method " Url="html/6f2b2b95-d29a-8870-d73a-9d23c00b8679.htm">
+          <HelpTOCNode Id="febb114f-2eb7-476e-9c9a-35f031b52890" Title="Send Method " Url="html/6f2b2b95-d29a-8870-d73a-9d23c00b8679.htm">
             <HelpTOCNode Title="Send Method (SyslogMessage, ISyslogMessageSerializer)" Url="html/a8df675d-3b08-db1d-0299-f2d2f8cb7c31.htm" />
             <HelpTOCNode Title="Send Method (IEnumerable(SyslogMessage), ISyslogMessageSerializer)" Url="html/60c4ee40-01d7-a4bc-4e7b-5299f17707d9.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="MessageTransfer Enumeration" Url="html/a01b4e06-4365-6f69-e1a7-d4e9d52cdae7.htm" />
-      <HelpTOCNode Id="3825478b-6502-4d53-858e-b8efe8de8f54" Title="SyslogTransportException Class" Url="html/01edba55-f513-3af1-0102-08edc7a69b4c.htm">
+      <HelpTOCNode Id="6e8691bc-e489-4b18-a779-263a3f74635c" Title="SyslogTransportException Class" Url="html/01edba55-f513-3af1-0102-08edc7a69b4c.htm">
         <HelpTOCNode Title="SyslogTransportException Constructor " Url="html/5e475ae9-1b09-46d5-8b91-4ca47a43a188.htm" />
         <HelpTOCNode Title="SyslogTransportException Properties" Url="html/203c4b1d-1905-113d-0b1d-3513bbc1c702.htm" />
         <HelpTOCNode Title="SyslogTransportException Methods" Url="html/1301d5c5-6555-818f-18f6-04cc0884311f.htm" />

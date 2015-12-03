@@ -66,7 +66,7 @@
   <HelpKINode Title="AsyncSyslogUdpSender.DisconnectAsync method" Url="html/1825663a-f602-45bf-71c9-822e18cb921f.htm" />
   <HelpKINode Title="AsyncSyslogUdpSender.Dispose method" Url="html/d87b7a88-263d-634d-ca98-d5e6bfd11991.htm" />
   <HelpKINode Title="AsyncSyslogUdpSender.ReconnectAsync method" Url="html/2f029978-f1ef-24df-ad03-5f1a0d00bd5d.htm" />
-  <HelpKINode Title="CalculatePriorityValue method" Url="html/9aa8862d-e50a-555e-76ef-a2ad06656efd.htm" />
+  <HelpKINode Title="CalculatePriorityValue method" Url="html/0162c222-87e7-f896-8439-dccb8ae73568.htm" />
   <HelpKINode Title="ClockDaemon1 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
   <HelpKINode Title="ClockDaemon2 enumeration member" Url="html/3a590f11-3554-e072-6898-3bfc9b024143.htm" />
   <HelpKINode Title="Connect method" Url="html/94fc1ccd-9f53-bf7f-385a-8f1e6d28902c.htm" />
@@ -248,7 +248,7 @@
   </HelpKINode>
   <HelpKINode Title="SyslogMessageSerializerBase(Of T).Default property" Url="html/aa42e552-1ba8-22b8-1b3d-befaf5298eeb.htm" />
   <HelpKINode Title="SyslogMessageSerializerBase(Of T).SyslogMessageSerializerBase constructor" Url="html/d6fbf20d-0442-b807-fca7-43cc2bc4cf37.htm" />
-  <HelpKINode Title="SyslogMessageSerializerBase.CalculatePriorityValue method" Url="html/9aa8862d-e50a-555e-76ef-a2ad06656efd.htm" />
+  <HelpKINode Title="SyslogMessageSerializerBase.CalculatePriorityValue method" Url="html/0162c222-87e7-f896-8439-dccb8ae73568.htm" />
   <HelpKINode Title="SyslogMessageSerializerBase.Encoding property" Url="html/35fccec4-1b70-a44f-adf6-9dab4385c7e5.htm" />
   <HelpKINode Title="SyslogMessageSerializerBase.SyslogMessageSerializerBase constructor" Url="html/adeabb3a-d35a-b2a4-5f5f-8ab7e7512cc9.htm" />
   <HelpKINode Title="SyslogMessageSerializerBase&lt;T&gt; class">
